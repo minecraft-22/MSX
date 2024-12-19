@@ -47,3 +47,8 @@
 [19:07:10] [Server thread/INFO]: Time elapsed: 14638 ms
 [19:07:10] [Server thread/INFO]: Done (35.938s)! For help, type "help"
 [19:08:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:13:51] [Server thread/INFO]: Shadow_GS[/127.83.145.254:52661] logged in with entity id 34 at (-37.5, 71.0, 87.5)
+[20:13:51] [Server thread/INFO]: Shadow_GS joined the game
+[20:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[20:14:58] [Server thread/INFO]: Shadow_GS has made the advancement [Stone Age]
+[20:15:04] [Server thread/INFO]: Shadow_GS has made the advancement [Getting an Upgrade]
