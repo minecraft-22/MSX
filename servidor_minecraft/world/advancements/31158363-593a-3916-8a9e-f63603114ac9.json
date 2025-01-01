@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-01-01 04:31:58 +0000",
+      "minecraft:dark_forest": "2025-01-01 04:36:12 +0000",
       "minecraft:forest": "2025-01-01 03:53:57 +0000",
       "minecraft:sparse_jungle": "2025-01-01 04:14:32 +0000",
       "minecraft:deep_ocean": "2025-01-01 03:56:39 +0000",
@@ -19,6 +20,7 @@
       "minecraft:jungle": "2025-01-01 04:13:08 +0000",
       "minecraft:sunflower_plains": "2025-01-01 04:06:38 +0000",
       "minecraft:birch_forest": "2025-01-01 04:04:04 +0000",
+      "minecraft:bamboo_jungle": "2025-01-01 04:35:23 +0000",
       "minecraft:plains": "2025-01-01 04:07:16 +0000"
     },
     "done": false
