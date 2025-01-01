@@ -1,166 +1,52 @@
-[03:44:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:44:22] [ServerMain/INFO]: Loaded 1337 recipes
-[03:44:22] [ServerMain/INFO]: Loaded 1448 advancements
-[03:44:22] [Server thread/INFO]: Starting minecraft server version 1.21.2
-[03:44:22] [Server thread/INFO]: Loading properties
-[03:44:22] [Server thread/INFO]: Default game type: SURVIVAL
-[03:44:22] [Server thread/INFO]: Generating keypair
-[03:44:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:44:22] [Server thread/INFO]: Using epoll channel type
-[03:44:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:44:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:44:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:44:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:44:22] [Server thread/INFO]: Preparing level "world"
-[03:44:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:29] [Server thread/INFO]: Time elapsed: 6793 ms
-[03:44:29] [Server thread/INFO]: Done (7.123s)! For help, type "help"
-[03:44:44] [Server thread/INFO]: Shadow_GS[/127.83.41.1:56193] logged in with entity id 28 at (249.09268742605576, 81.0, 110.69999998807907)
-[03:44:44] [Server thread/INFO]: Shadow_GS joined the game
-[03:44:48] [Server thread/INFO]: FELversgg[/127.234.242.55:60189] logged in with entity id 182 at (249.52446306554145, 78.0, 112.19430150481577)
-[03:44:48] [Server thread/INFO]: FELversgg joined the game
-[03:45:23] [Server thread/INFO]: Made Shadow_GS a server operator
-[03:45:32] [Server thread/INFO]: [Shadow_GS: The difficulty has been set to Hard]
-[03:45:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:45:39] [Server thread/INFO]: /dop Shadow_GS<--[HERE]
-[03:46:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:46:02] [Server thread/INFO]: dop Shadow_GS<--[HERE]
-[03:46:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:46:19] [Server thread/INFO]: d op Shadow_GS<--[HERE]
-[03:47:07] [Server thread/INFO]: Made Shadow_GS no longer a server operator
-[03:47:50] [Server thread/INFO]: FELversgg has made the advancement [Monster Hunter]
-[03:49:51] [Server thread/INFO]: Shadow_GS has made the advancement [Acquire Hardware]
-[03:51:56] [Server thread/INFO]: Shadow_GS has made the advancement [Monster Hunter]
-[03:53:56] [Server thread/INFO]: Perkzekil[/127.89.178.174:34441] logged in with entity id 1665 at (-44.5, 70.0, 71.5)
-[03:53:56] [Server thread/INFO]: Perkzekil joined the game
-[03:57:01] [Server thread/INFO]: Shadow_GS has made the advancement [Not Today, Thank You]
-[03:57:35] [Server thread/INFO]: FELversgg has made the advancement [Not Today, Thank You]
-[03:58:24] [Server thread/INFO]: Perkzekil has made the advancement [Stone Age]
-[03:58:29] [Server thread/INFO]: Shadow_GS was slain by Zombie
-[03:58:59] [Server thread/INFO]: Perkzekil has made the advancement [Getting an Upgrade]
-[03:59:17] [Server thread/INFO]: FELversgg was slain by Zombie
-[04:01:39] [Server thread/INFO]: [Not Secure] <Shadow_GS> 257 26 116
-[04:01:41] [Server thread/INFO]: Perkzekil has made the advancement [Acquire Hardware]
-[04:02:30] [Server thread/INFO]: Shadow_GS has made the advancement [Isn't It Iron Pick]
-[04:02:33] [Server thread/INFO]: Shadow_GS has made the advancement [Diamonds!]
-[04:03:18] [Server thread/INFO]: Jhaydenx2009[/127.111.244.210:51761] logged in with entity id 9608 at (-47.5, 79.0, 79.5)
-[04:03:18] [Server thread/INFO]: Jhaydenx2009 joined the game
-[04:03:57] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> e/kill everyone
-[04:04:14] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> e/give me diamonds 9999999999999999
-[04:04:36] [Server thread/INFO]: [Not Secure] <Shadow_GS> 257 26 16
-[04:04:39] [Server thread/INFO]: [Not Secure] <Shadow_GS> 116
-[04:04:40] [Server thread/INFO]: FELversgg was shot by Skeleton
-[04:04:49] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 257 26 116
-[04:05:03] [Server thread/INFO]: Jhaydenx2009 fell from a high place
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.075008476149364,0.0,-10.26364093764164
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.088219327312956,0.0,-10.662633170009258
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.1005155909309252,0.0,-11.061724104922405
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.1119695519724075,0.0,-11.460904058388905
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.122650101628608,0.0,-11.860164277562717
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.1326192418535328,0.0,-12.259496873707121
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.1419327744043386,0.0,-12.658894743233532
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.1506447556109265,0.0,-13.058351455659931
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.159501691395377,0.0,-13.457849578295054
-[04:05:25] [Server thread/WARN]: Jhaydenx2009 moved too quickly! -9.890066417563247,0.3587396254847164,-1.7752521223275437
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.1698032640563696,0.0,-13.857329940128466
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.1825868018739811,0.0,-14.25670777129676
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.1986647342772585,0.0,-14.655885574572267
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.2186586697158504,0.0,-15.054762344144365
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.2430340392313468,0.0,-15.453239210115044
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.2721161952299695,0.0,-15.851225189097704
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.3061238355624454,0.0,-16.24863797508874
-[04:05:25] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.3451801714306413,0.0,-16.645406871524983
-[04:05:29] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.6435164817345935,0.0,-10.257010625863586
-[04:05:29] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 1.700292052516744,0.0,-10.652745804007736
-[04:06:02] [Server thread/INFO]: Perkzekil has made the advancement [Not Today, Thank You]
-[04:06:04] [Server thread/INFO]: Perkzekil has made the advancement [Monster Hunter]
-[04:06:31] [Server thread/INFO]: Shadow_GS was shot by Skeleton
-[04:07:26] [Server thread/INFO]: FELversgg was shot by Skeleton
-[04:09:06] [Server thread/INFO]: FELversgg was slain by Zombie
-[04:09:14] [Server thread/INFO]: Perkzekil was shot by Skeleton
-[04:09:30] [Server thread/INFO]: Jhaydenx2009 has made the advancement [Stone Age]
-[04:10:02] [Server thread/INFO]: Jhaydenx2009 has made the advancement [Getting an Upgrade]
-[04:11:10] [Server thread/INFO]: Jhaydenx2009 has made the advancement [Monster Hunter]
-[04:11:17] [Server thread/INFO]: FELversgg was blown up by Creeper
-[04:14:02] [Server thread/WARN]: Shadow_GS moved too quickly! -10.123727156703296,-1.2491870787446828,-0.08735527411479893
-[04:17:54] [Server thread/INFO]: Jhaydenx2009 was impaled by Drowned
-[04:20:30] [Server thread/INFO]: Perkzekil lost connection: Disconnected
-[04:20:30] [Server thread/INFO]: Perkzekil left the game
-[04:20:30] [Server thread/INFO]: Jhaydenx2009 has made the advancement [Ice Bucket Challenge]
-[04:21:41] [Server thread/INFO]: sebastingui10934[/127.75.112.226:37945] logged in with entity id 24518 at (-42.5, 74.0, 83.5)
-[04:21:41] [Server thread/INFO]: sebastingui10934 joined the game
-[04:21:57] [Server thread/INFO]: FELversgg has made the advancement [Acquire Hardware]
-[04:22:46] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 256 26 116
-[04:23:44] [Server thread/INFO]: Shadow_GS has made the advancement [Suit Up]
-[04:25:19] [Server thread/INFO]: FELversgg has made the advancement [Isn't It Iron Pick]
-[04:25:35] [Server thread/INFO]: Perkzekil[/127.89.178.174:37203] logged in with entity id 26234 at (-949.6585821213805, 81.0, 364.69999998807907)
-[04:25:35] [Server thread/INFO]: Perkzekil joined the game
-[04:27:08] [Server thread/INFO]: sebastingui10934 has made the advancement [Stone Age]
-[04:27:12] [Server thread/INFO]: [Not Secure] <Shadow_GS> 256 26 116
-[04:28:04] [Server thread/INFO]: sebastingui10934 was shot by Skeleton
-[04:28:19] [Server thread/INFO]: sebastingui10934 was shot by Skeleton
-[04:28:38] [Server thread/INFO]: Shadow_GS has made the advancement [Cover Me with Diamonds]
-[04:28:54] [Server thread/INFO]: FELversgg has made the advancement [Suit Up]
-[04:30:05] [Server thread/INFO]: FELversgg has made the advancement [Diamonds!]
-[04:30:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=100, y=53, z=-9} jh{x=100, y=52, z=-9}
-[04:30:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=100, y=53, z=-9} jh{x=100, y=52, z=-9}
-[04:30:21] [Server thread/WARN]: Shadow_GS moved too quickly! 3.01730395946106,2.176759275064242,-9.37864241557859
-[04:30:59] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> (system) shutdown in 10 minutes
-[04:31:07] [Server thread/INFO]: sebastingui10934 was slain by Drowned
-[04:31:42] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 256 26 116
-[04:33:07] [Server thread/INFO]: FELversgg has made the advancement [Cover Me with Diamonds]
-[04:33:20] [Server thread/INFO]: Perkzekil has made the advancement [Isn't It Iron Pick]
-[04:33:42] [Server thread/INFO]: sebastingui10934 has made the advancement [Getting an Upgrade]
-[04:36:07] [Server thread/INFO]: Jhaydenx2009 lost connection: Disconnected
-[04:36:07] [Server thread/INFO]: Jhaydenx2009 left the game
-[04:37:57] [Server thread/INFO]: sebastingui10934 has made the advancement [Acquire Hardware]
-[04:38:59] [Server thread/INFO]: FELversgg was slain by Zombie
-[04:40:03] [Server thread/INFO]: [Not Secure] <Shadow_GS> 256 26 116
-[04:42:29] [Server thread/INFO]: Jhaydenx2009[/127.111.244.210:57833] logged in with entity id 41151 at (207.0055935886455, -10.0, 117.88980813369763)
-[04:42:29] [Server thread/INFO]: Jhaydenx2009 joined the game
-[04:43:13] [Server thread/WARN]: Oak Boat (vehicle of Perkzekil) moved too quickly! -8.388461913852097,0.0,-5.828688067503208
-[04:43:35] [Server thread/INFO]: Shadow_GS has made the advancement [Sweet Dreams]
-[04:44:46] [Server thread/INFO]: Jhaydenx2009 lost connection: Disconnected
-[04:44:46] [Server thread/INFO]: Jhaydenx2009 left the game
-[04:45:48] [Server thread/INFO]: FELversgg has made the advancement [Sweet Dreams]
-[04:47:15] [Server thread/INFO]: Perkzekil lost connection: Disconnected
-[04:47:15] [Server thread/INFO]: Perkzekil left the game
-[04:48:16] [Server thread/INFO]: FELversgg hit the ground too hard
-[04:50:01] [Server thread/INFO]: sebastingui10934 has made the advancement [Not Today, Thank You]
-[04:50:28] [Server thread/INFO]: Shadow_GS was slain by FELversgg
-[04:50:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=292, y=-27, z=-37}
-[04:51:25] [Server thread/INFO]: Jhaydenx2009[/127.111.244.210:44115] logged in with entity id 49883 at (194.76045911124748, -10.0, 94.07375904689805)
-[04:51:25] [Server thread/INFO]: Jhaydenx2009 joined the game
-[04:52:08] [Server thread/INFO]: [Not Secure] <Shadow_GS> 296 -24 -39
-[04:52:29] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 296 -24 -30
-[04:52:32] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 39
-[04:52:46] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 296 -24 -39
-[04:56:10] [Server thread/INFO]: Shadow_GS lost connection: Disconnected
-[04:56:10] [Server thread/INFO]: Shadow_GS left the game
-[04:58:02] [Server thread/INFO]: Jhaydenx2009 lost connection: Disconnected
-[04:58:02] [Server thread/INFO]: Jhaydenx2009 left the game
-[05:05:35] [Server thread/INFO]: FELversgg lost connection: Disconnected
-[05:05:35] [Server thread/INFO]: FELversgg left the game
-[05:05:44] [Server thread/INFO]: sebastingui10934 lost connection: Disconnected
-[05:05:44] [Server thread/INFO]: sebastingui10934 left the game
-[05:06:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[05:18:47] [Server thread/INFO]: Shadow_GS[/127.83.41.1:44351] logged in with entity id 57649 at (296.69999998807907, -24.0, -39.69999998807907)
-[05:18:47] [Server thread/INFO]: Shadow_GS joined the game
-[05:30:10] [Server thread/INFO]: Shadow_GS drowned
-[05:31:52] [Server thread/INFO]: Shadow_GS lost connection: Disconnected
-[05:31:52] [Server thread/INFO]: Shadow_GS left the game
-[05:32:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:32:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:32:35] [ServerMain/INFO]: Loaded 1337 recipes
+[23:32:35] [ServerMain/INFO]: Loaded 1448 advancements
+[23:32:35] [Server thread/INFO]: Starting minecraft server version 1.21.2
+[23:32:35] [Server thread/INFO]: Loading properties
+[23:32:35] [Server thread/INFO]: Default game type: SURVIVAL
+[23:32:35] [Server thread/INFO]: Generating keypair
+[23:32:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:32:36] [Server thread/INFO]: Using epoll channel type
+[23:32:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:32:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:32:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:32:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:32:37] [Server thread/INFO]: Preparing level "world"
+[23:32:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:32:51] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[23:32:51] [Server thread/INFO]: Time elapsed: 13235 ms
+[23:32:51] [Server thread/INFO]: Done (14.075s)! For help, type "help"
+[23:33:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:34:06] [Server thread/INFO]: FELversgg[/127.234.242.55:47747] logged in with entity id 7 at (335.69999998807907, -2.0, 148.32310234008708)
+[23:34:06] [Server thread/INFO]: FELversgg joined the game
+[23:34:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[23:34:59] [Server thread/INFO]: Shadow_GS[/127.83.41.1:51731] logged in with entity id 279 at (296.3285334424907, -24.0, -38.69999998807907)
+[23:34:59] [Server thread/INFO]: Shadow_GS joined the game
+[23:35:45] [Server thread/INFO]: [Not Secure] <FELversgg> 306 -5 174
+[23:42:05] [Server thread/INFO]: FELversgg has made the advancement [Take Aim]
