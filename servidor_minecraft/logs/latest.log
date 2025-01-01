@@ -160,3 +160,7 @@
 [05:06:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [05:18:47] [Server thread/INFO]: Shadow_GS[/127.83.41.1:44351] logged in with entity id 57649 at (296.69999998807907, -24.0, -39.69999998807907)
 [05:18:47] [Server thread/INFO]: Shadow_GS joined the game
+[05:30:10] [Server thread/INFO]: Shadow_GS drowned
+[05:31:52] [Server thread/INFO]: Shadow_GS lost connection: Disconnected
+[05:31:52] [Server thread/INFO]: Shadow_GS left the game
+[05:32:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
