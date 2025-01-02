@@ -570,6 +570,7 @@
       "minecraft:skeleton": "2025-01-01 04:06:04 +0000",
       "minecraft:spider": "2025-01-01 04:11:33 +0000",
       "minecraft:zombie": "2025-01-01 04:06:50 +0000",
+      "minecraft:creeper": "2025-01-01 23:54:57 +0000",
       "minecraft:zombie_villager": "2025-01-01 04:30:32 +0000"
     },
     "done": false
@@ -839,15 +840,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-01-01 04:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-01 04:33:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_iron_axe": "2025-01-01 04:33:12 +0000"
+      "has_log": "2025-01-01 23:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-01 23:55:04 +0000"
     },
     "done": true
   },
