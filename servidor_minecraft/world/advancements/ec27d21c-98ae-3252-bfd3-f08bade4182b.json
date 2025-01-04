@@ -423,7 +423,9 @@
       "rotten_flesh": "2025-01-01 04:45:55 +0000",
       "cooked_mutton": "2025-01-01 04:34:05 +0000",
       "potato": "2025-01-04 20:33:30 +0000",
+      "cooked_cod": "2025-01-04 21:00:59 +0000",
       "cooked_beef": "2025-01-01 03:46:33 +0000",
+      "cod": "2025-01-04 20:54:57 +0000",
       "cooked_salmon": "2025-01-02 00:07:01 +0000",
       "carrot": "2025-01-02 01:05:01 +0000"
     },
@@ -1707,6 +1709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-04 20:54:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-04 18:31:03 +0000"
@@ -1785,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-04 20:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-04 18:59:50 +0000"
@@ -1800,6 +1814,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-01-04 19:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-04 20:54:04 +0000"
     },
     "done": true
   },
@@ -2259,6 +2279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-04 20:54:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-01-04 18:31:03 +0000"
@@ -2310,6 +2336,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-04 20:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-04 20:54:32 +0000"
     },
     "done": true
   },
@@ -2474,6 +2506,12 @@
       "has_stone": "2025-01-04 18:31:03 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:ragdoll": "2025-01-04 20:54:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
