@@ -71,3 +71,12 @@
 [20:41:21] [Server thread/INFO]: Shadow_GS has made the advancement [Fishy Business]
 [20:54:04] [Server thread/INFO]: Shadow_GS has made the advancement [Best Friends Forever]
 [20:55:22] [Server thread/INFO]: [Not Secure] <Shadow_GS> la mesa
+[21:06:10] [Server thread/INFO]: Perkzekil lost connection: Disconnected
+[21:06:10] [Server thread/INFO]: Perkzekil left the game
+[21:09:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7779, y=64, z=3427} jh{x=7779, y=62, z=3427}
+[21:09:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7780, y=64, z=3426} jh{x=7780, y=62, z=3425}
+[21:09:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7780, y=64, z=3426} jh{x=7780, y=62, z=3425}
+[21:09:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7781, y=64, z=3425} jh{x=7782, y=63, z=3424}
+[21:09:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7781, y=64, z=3425} jh{x=7782, y=63, z=3424}
+[21:09:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7782, y=64, z=3425} jh{x=7783, y=62, z=3425}
+[21:09:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7782, y=64, z=3425} jh{x=7783, y=62, z=3425}
