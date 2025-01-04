@@ -60,3 +60,8 @@
 [19:16:58] [Server thread/INFO]: Perkzekil[/127.89.178.174:55035] logged in with entity id 24308 at (3109.968224843993, -16.0, 790.0171264429329)
 [19:16:58] [Server thread/INFO]: Perkzekil joined the game
 [19:43:16] [Server thread/WARN]: Perkzekil moved too quickly! 5.666832304017589,-0.8291870918577047,8.622172532859622
+[19:51:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6434, y=57, z=1484} jh{x=6434, y=55, z=1484}
+[19:52:30] [Server thread/INFO]: Perkzekil has made the advancement [Best Friends Forever]
+[19:52:47] [Server thread/INFO]: Perkzekil has made the advancement [Sweet Dreams]
+[20:00:17] [Server thread/INFO]: Villager cpi['Farmer'/45164, l='ServerLevel[world]', x=6433.05, y=66.00, z=1329.40] died, message: 'Farmer was slain by Zombie'
+[20:14:19] [Server thread/INFO]: [Not Secure] <FELversgg> X:7809 Z:3289
