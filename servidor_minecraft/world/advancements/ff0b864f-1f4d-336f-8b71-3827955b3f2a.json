@@ -12,6 +12,7 @@
       "minecraft:old_growth_pine_taiga": "2025-01-02 01:11:05 +0000",
       "minecraft:forest": "2025-01-01 03:38:21 +0000",
       "minecraft:taiga": "2025-01-02 01:05:29 +0000",
+      "minecraft:deep_ocean": "2025-01-04 23:36:55 +0000",
       "minecraft:frozen_ocean": "2025-01-02 01:00:53 +0000",
       "minecraft:frozen_river": "2025-01-02 01:00:48 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-02 01:09:30 +0000",
@@ -2040,15 +2041,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-04 23:42:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-04 23:13:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-04 23:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-04 23:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-04 23:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-04 23:26:26 +0000"
     },
     "done": true
   },
