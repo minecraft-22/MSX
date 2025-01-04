@@ -355,7 +355,8 @@
       "cooked_mutton": "2025-01-01 04:14:17 +0000",
       "salmon": "2025-01-02 00:05:46 +0000",
       "cooked_beef": "2025-01-01 03:45:34 +0000",
-      "cooked_salmon": "2025-01-02 00:07:00 +0000"
+      "cooked_salmon": "2025-01-02 00:07:00 +0000",
+      "carrot": "2025-01-04 20:49:08 +0000"
     },
     "done": false
   },
@@ -1837,6 +1838,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-04 18:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-04 20:48:48 +0000"
     },
     "done": true
   },
