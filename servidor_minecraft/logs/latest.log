@@ -37,3 +37,9 @@
 [18:17:37] [Server thread/INFO]: Shadow_GS[/127.83.41.1:51369] logged in with entity id 475 at (7800.5746928276985, 69.0, 3289.699999988079)
 [18:17:37] [Server thread/INFO]: Shadow_GS joined the game
 [18:21:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7812, y=63, z=3279} jh{x=7813, y=63, z=3279}
+[18:29:33] [Server thread/INFO]: Shadow_GS has made the advancement [Hot Stuff]
+[18:29:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7813, y=63, z=3305} jh{x=7813, y=62, z=3304}
+[18:29:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7814, y=63, z=3305} jh{x=7813, y=62, z=3304}
+[18:29:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7809, y=63, z=3305} jh{x=7808, y=62, z=3304}
+[18:29:45] [Server thread/INFO]: FELversgg lost connection: Disconnected
+[18:29:45] [Server thread/INFO]: FELversgg left the game
