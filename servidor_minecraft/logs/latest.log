@@ -1,40 +1,39 @@
-[00:03:21] [Server thread/INFO]: Perkzekil has made the advancement [Suit Up]
-[00:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
-[00:20:27] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 4.803634972832469,0.0,-8.78081154858694
-[00:20:27] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! 7.907585676827921,0.0,-6.746172326764508
-[00:20:27] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 4.999696820107374,0.0,-9.125541177498462
-[00:20:27] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! 8.209697424048272,0.0,-7.008268263540458
-[00:20:27] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! 8.511753191717503,0.0,-7.270435079895606
-[00:20:27] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 5.201468872845794,0.0,-9.466766853416402
-[00:20:27] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 5.409474049311939,0.0,-9.80391149551133
-[00:20:27] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! 8.813756059495859,0.0,-7.5326685786956205
-[00:20:27] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 5.624042914329266,0.0,-10.136516997174681
-[00:20:27] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! 9.115711317373666,0.0,-7.794962091694401
-[00:20:27] [Server thread/WARN]: Birch Boat (vehicle of Perkzekil) moved too quickly! 5.845354970209996,0.0,-10.46423014929917
-[00:20:27] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! 9.417623726342185,0.0,-8.05730961747065
-[00:23:29] [Server thread/INFO]: Shadow_GS has made the advancement [Light as a Rabbit]
-[00:25:23] [Server thread/INFO]: FELversgg has made the advancement [Light as a Rabbit]
-[00:25:48] [Server thread/INFO]: Perkzekil has made the advancement [Light as a Rabbit]
-[00:28:49] [Server thread/INFO]: Perkzekil has made the advancement [Ice Bucket Challenge]
-[00:35:40] [Server thread/WARN]: Perkzekil moved too quickly! 9.700806665010987,-2.419999986886978,2.2692861599162484
-[00:36:27] [Server thread/INFO]: [Not Secure] <Shadow_GS> 3020 62 1231
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -1.3358634958726725,7.958078640513122E-13,10.26496022886522
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -1.4303281091943063,8.029132914089132E-13,10.651517924867221
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -1.5291535156375176,8.100187187665142E-13,11.036961279947036
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -1.6315033458931794,8.242295734817162E-13,11.421546537707627
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -1.7359978341901297,8.384404281969182E-13,11.805709353638804
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -1.8414926831464982,8.526512829121202E-13,12.189782131069478
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -1.9470437077529823,8.597567102697212E-13,12.574015999095081
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -2.0518815463274223,8.668621376273222E-13,12.958596778012634
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -2.1553883499609583,8.739675649849232E-13,13.343658230626716
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -2.2570726306948927,8.810729923425242E-13,13.729293835686349
-[00:38:21] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -2.357236497421127,8.810729923425242E-13,14.115419828955282
-[00:40:51] [Server thread/INFO]: FELversgg has made the advancement [Hot Stuff]
-[00:48:30] [Server thread/INFO]: Perkzekil lost connection: Disconnected
-[00:48:30] [Server thread/INFO]: Perkzekil left the game
-[00:52:45] [Server thread/INFO]: Seed: [7404245965424941149]
-[00:56:04] [Server thread/INFO]: [Not Secure] <Shadow_GS> 7808 ~ 3328
-[01:00:53] [Server thread/WARN]: FELversgg moved too quickly! 7.058725536024667,0.25086736114158725,7.352326728213939
-[01:00:53] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -3.2336622718821673,0.0,9.65265290857542
-[01:00:53] [Server thread/WARN]: Oak Boat (vehicle of Shadow_GS) moved too quickly! -3.2944562840084473,0.0,10.030199637242276
-[01:11:32] [Server thread/INFO]: FELversgg has made the advancement [Best Friends Forever]
+[18:12:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:12:48] [ServerMain/INFO]: Loaded 1337 recipes
+[18:12:48] [ServerMain/INFO]: Loaded 1448 advancements
+[18:12:48] [Server thread/INFO]: Starting minecraft server version 1.21.2
+[18:12:48] [Server thread/INFO]: Loading properties
+[18:12:48] [Server thread/INFO]: Default game type: SURVIVAL
+[18:12:48] [Server thread/INFO]: Generating keypair
+[18:12:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:12:49] [Server thread/INFO]: Using epoll channel type
+[18:12:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:12:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:12:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:12:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:12:49] [Server thread/INFO]: Preparing level "world"
+[18:12:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:12:57] [Server thread/INFO]: Time elapsed: 7870 ms
+[18:12:57] [Server thread/INFO]: Done (8.445s)! For help, type "help"
+[18:13:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:16:02] [Server thread/INFO]: FELversgg[/127.234.242.55:54307] logged in with entity id 7 at (7800.053674979036, 69.5625, 3289.6177248498534)
+[18:16:02] [Server thread/INFO]: FELversgg joined the game
+[18:17:37] [Server thread/INFO]: Shadow_GS[/127.83.41.1:51369] logged in with entity id 475 at (7800.5746928276985, 69.0, 3289.699999988079)
+[18:17:37] [Server thread/INFO]: Shadow_GS joined the game
+[18:21:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7812, y=63, z=3279} jh{x=7813, y=63, z=3279}
