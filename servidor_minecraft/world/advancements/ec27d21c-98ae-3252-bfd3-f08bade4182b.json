@@ -611,6 +611,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-01 03:57:04 +0000",
+      "minecraft:enderman": "2025-01-04 18:55:55 +0000",
       "minecraft:spider": "2025-01-01 04:03:42 +0000",
       "minecraft:zombie": "2025-01-01 03:51:56 +0000",
       "minecraft:creeper": "2025-01-04 18:42:44 +0000",
@@ -1740,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-04 18:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 18:31:29 +0000"
@@ -1785,6 +1792,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 18:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-04 18:59:50 +0000"
     },
     "done": true
   },
