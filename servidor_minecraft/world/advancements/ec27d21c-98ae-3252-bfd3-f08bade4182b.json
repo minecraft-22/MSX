@@ -613,6 +613,7 @@
       "minecraft:skeleton": "2025-01-01 03:57:04 +0000",
       "minecraft:spider": "2025-01-01 04:03:42 +0000",
       "minecraft:zombie": "2025-01-01 03:51:56 +0000",
+      "minecraft:creeper": "2025-01-04 18:42:44 +0000",
       "minecraft:slime": "2025-01-01 04:40:56 +0000"
     },
     "done": false
@@ -1907,6 +1908,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-04 18:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-04 18:34:05 +0000"
@@ -1970,6 +1977,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-04 18:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-04 18:47:15 +0000"
     },
     "done": true
   },
@@ -2063,9 +2076,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-04 18:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-01-04 18:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-04 18:48:50 +0000"
     },
     "done": true
   },
