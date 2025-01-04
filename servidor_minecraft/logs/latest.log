@@ -80,3 +80,5 @@
 [21:09:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7781, y=64, z=3425} jh{x=7782, y=63, z=3424}
 [21:09:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7782, y=64, z=3425} jh{x=7783, y=62, z=3425}
 [21:09:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7782, y=64, z=3425} jh{x=7783, y=62, z=3425}
+[21:15:54] [Server thread/INFO]: Perkzekil[/127.89.178.174:59973] logged in with entity id 86176 at (7799.823368648442, 73.75, 3288.663563156232)
+[21:15:54] [Server thread/INFO]: Perkzekil joined the game
