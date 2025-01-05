@@ -345,7 +345,8 @@
       "minecraft:skeleton": "2025-01-05 21:10:58 +0000",
       "minecraft:enderman": "2025-01-05 21:16:41 +0000",
       "minecraft:spider": "2025-01-01 04:28:50 +0000",
-      "minecraft:zombie": "2025-01-01 04:11:10 +0000"
+      "minecraft:zombie": "2025-01-01 04:11:10 +0000",
+      "minecraft:drowned": "2025-01-05 21:55:42 +0000"
     },
     "done": false
   },
@@ -878,6 +879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-05 21:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-05 21:19:39 +0000"
@@ -1124,6 +1131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-05 21:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-05 21:19:39 +0000"
@@ -1193,6 +1206,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-05 21:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-05 21:55:23 +0000"
     },
     "done": true
   },
