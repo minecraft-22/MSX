@@ -620,6 +620,7 @@
       "minecraft:enderman": "2025-01-04 18:55:55 +0000",
       "minecraft:witch": "2025-01-04 20:02:34 +0000",
       "minecraft:spider": "2025-01-01 04:03:42 +0000",
+      "minecraft:wither_skeleton": "2025-01-05 00:06:29 +0000",
       "minecraft:zombie": "2025-01-01 03:51:56 +0000",
       "minecraft:creeper": "2025-01-04 18:42:44 +0000",
       "minecraft:slime": "2025-01-01 04:40:56 +0000"
@@ -2589,6 +2590,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-05 00:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-04 23:43:51 +0000"
@@ -2754,6 +2761,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-01-04 23:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-05 00:06:37 +0000"
     },
     "done": true
   },
