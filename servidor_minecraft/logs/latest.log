@@ -116,3 +116,8 @@
 [22:12:37] [Server thread/INFO]: Villager cpi['Villager'/45340, l='ServerLevel[world]', x=7823.30, y=63.00, z=3322.48] died, message: 'Villager was slain by Zombisius IV'
 [22:33:10] [Server thread/INFO]: [Not Secure] <FELversgg> X: -263 Z: 304
 [22:34:42] [Server thread/INFO]: [Not Secure] <FELversgg> X:-32.875 z:38
+[22:41:45] [Server thread/INFO]: Perkzekil lost connection: Disconnected
+[22:41:45] [Server thread/INFO]: Perkzekil left the game
+[22:48:58] [Server thread/INFO]: Shadow_GS has completed the challenge [Hot Tourist Destinations]
+[22:55:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-29, y=52, z=27} jh{x=-29, y=50, z=28}
+[22:55:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-29, y=52, z=27} jh{x=-29, y=50, z=28}
