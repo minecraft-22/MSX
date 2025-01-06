@@ -114,3 +114,9 @@
 [00:55:35] [Server thread/INFO]: Villager cpi['Librarian'/7469, l='ServerLevel[world]', x=7823.70, y=64.00, z=3322.30] died, message: 'Librarian blew up'
 [00:55:38] [Server thread/INFO]: RedSkull lost connection: Disconnected
 [00:55:38] [Server thread/INFO]: RedSkull left the game
+[00:56:34] [Server thread/INFO]: Villager cpi['Butcher'/7471, l='ServerLevel[world]', x=7823.70, y=63.00, z=3326.50] died, message: 'Butcher was slain by Zombisius IV'
+[00:58:08] [Server thread/INFO]: Perkzekil lost connection: Timed out
+[00:58:08] [Server thread/INFO]: Perkzekil left the game
+[00:58:08] [Server thread/WARN]: handleDisconnection() called twice
+[00:59:40] [Server thread/INFO]: Perkzekil[/127.89.178.174:42391] logged in with entity id 24248 at (7828.6906626664995, 63.0, 3335.794000096553)
+[00:59:40] [Server thread/INFO]: Perkzekil joined the game
