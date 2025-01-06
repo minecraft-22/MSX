@@ -128,3 +128,7 @@
 [01:23:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7870, y=65, z=3369} jh{x=7870, y=64, z=3369}
 [01:26:55] [Server thread/INFO]: Shadow_GS lost connection: Disconnected
 [01:26:55] [Server thread/INFO]: Shadow_GS left the game
+[01:37:59] [Server thread/INFO]: Perkzekil lost connection: Disconnected
+[01:37:59] [Server thread/INFO]: Perkzekil left the game
+[01:44:24] [Server thread/INFO]: Shadow_GS[/127.83.145.254:36399] logged in with entity id 37253 at (7820.902425811087, 64.0, 3323.728644431819)
+[01:44:24] [Server thread/INFO]: Shadow_GS joined the game
