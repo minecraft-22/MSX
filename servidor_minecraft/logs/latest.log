@@ -1,126 +1,76 @@
-[19:53:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:53:24] [ServerMain/INFO]: Loaded 1337 recipes
-[19:53:24] [ServerMain/INFO]: Loaded 1448 advancements
-[19:53:24] [Server thread/INFO]: Starting minecraft server version 1.21.2
-[19:53:24] [Server thread/INFO]: Loading properties
-[19:53:24] [Server thread/INFO]: Default game type: SURVIVAL
-[19:53:24] [Server thread/INFO]: Generating keypair
-[19:53:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:53:25] [Server thread/INFO]: Using epoll channel type
-[19:53:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:53:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:53:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:53:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:53:25] [Server thread/INFO]: Preparing level "world"
-[19:53:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:39] [Server thread/INFO]: Time elapsed: 13210 ms
-[19:53:39] [Server thread/INFO]: Done (14.058s)! For help, type "help"
-[19:53:53] [Server thread/INFO]: zDeathKnight_[/127.5.14.35:43391] logged in with entity id 21 at (-47.5, 67.0, 74.5)
-[19:53:53] [Server thread/INFO]: zDeathKnight_ joined the game
-[19:54:51] [Server thread/INFO]: zDeathKnight_ has made the advancement [Stone Age]
-[19:55:00] [Server thread/INFO]: zDeathKnight_ has made the advancement [Getting an Upgrade]
-[19:58:10] [Server thread/INFO]: zDeathKnight_ has made the advancement [Monster Hunter]
-[20:03:20] [Server thread/INFO]: zDeathKnight_ has made the advancement [Acquire Hardware]
-[20:04:22] [Server thread/INFO]: Perkzekil[/127.89.178.174:34291] logged in with entity id 5255 at (7794.300000011921, 65.875, 3287.300000011921)
-[20:04:22] [Server thread/INFO]: Perkzekil joined the game
-[20:05:21] [Server thread/INFO]: Perkzekil lost connection: Disconnected
-[20:05:21] [Server thread/INFO]: Perkzekil left the game
-[20:09:59] [Server thread/INFO]: zDeathKnight_ has made the advancement [Isn't It Iron Pick]
-[20:11:38] [Server thread/INFO]: zDeathKnight_ has made the advancement [Sweet Dreams]
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -9.575607710507256,0.0,3.423467329057644
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -9.966515789957384,0.0,3.4800457155182585
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -10.358326062603965,0.0,3.5317140340339392
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -10.750951795977471,0.0,3.5787447273957014
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -11.14431355250008,0.0,3.6214059872409052
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -11.538338798997529,0.0,3.659962187623478
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -11.93296151055688,0.0,3.694666602000666
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -12.32812170223906,0.0,3.7257625161203123
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -12.723764962917357,0.0,3.753480393463974
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -13.11984205063277,0.0,3.7780429931128765
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -13.516308453908323,0.0,3.799662305365473
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -13.913124015558196,0.0,3.8185406283831753
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -14.31025250843436,0.0,3.8348677024216613
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -14.70766136535758,0.0,3.8488257994985133
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -15.105321219987673,0.0,3.8605828010665846
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -15.503205691048151,0.0,3.870297470860578
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -15.901291117347228,0.0,3.8781203662031203
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -16.29955622616444,0.0,3.884190824158395
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -16.69798190557958,0.0,3.8886380832672103
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -17.096551103876664,0.0,3.8915861267232685
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -17.495248440983687,0.0,3.8931465404456276
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -17.89406025365065,0.0,3.8934274195704575
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -18.292974222600833,0.0,3.8925260504162225
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -18.691979346167045,0.0,3.8905338246894416
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -19.091065823432245,0.0,3.8875368285966942
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -19.490224937879475,0.0,3.883616373278528
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -19.88944883346744,0.0,3.878845638992175
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -20.28873043230874,0.0,3.873290488316684
-[20:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -11.50236713676395,0.0,0.5053165961577406
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -11.90174611213638,0.0,0.49837946353784446
-[20:17:22] [Server thread/WARN]: Birch Boat (vehicle of zDeathKnight_) moved too quickly! -12.301165930499565,0.0,0.49083239157823755
-[20:48:41] [Server thread/INFO]: zDeathKnight_ has made the advancement [Suit Up]
-[20:59:18] [Server thread/INFO]: Shadow_GS[/127.73.84.215:58583] logged in with entity id 24719 at (7798.300000011921, 69.5625, 3288.916067628727)
-[20:59:18] [Server thread/INFO]: Shadow_GS joined the game
-[21:01:21] [Server thread/INFO]: Perkzekil[/127.89.178.174:41569] logged in with entity id 25687 at (7854.9393583631445, 63.0, 3307.474722395867)
-[21:01:21] [Server thread/INFO]: Perkzekil joined the game
-[21:01:26] [Server thread/INFO]: Jhaydenx2009[/127.253.28.219:33727] logged in with entity id 25727 at (242.42683989225736, -37.0, 115.8581689195039)
-[21:01:26] [Server thread/INFO]: Jhaydenx2009 joined the game
-[21:04:49] [Server thread/INFO]: [Not Secure] <zDeathKnight_> 7000-3200
-[21:04:57] [Server thread/INFO]: [Not Secure] <Shadow_GS> x:7803 z:3304
-[21:05:02] [Server thread/INFO]: [Not Secure] <Perkzekil> 7800 3300
-[21:11:31] [Server thread/INFO]: zDeathKnight_ has made the advancement [Diamonds!]
-[21:11:37] [Server thread/INFO]: zDeathKnight_ has made the advancement [Not Today, Thank You]
-[21:18:38] [Server thread/INFO]: Jhaydenx2009 has made the advancement [Voluntary Exile]
-[21:19:39] [Server thread/INFO]: Jhaydenx2009 has made the advancement [Acquire Hardware]
-[21:25:25] [Server thread/WARN]: zDeathKnight_ moved too quickly! -9.780578201492517,-1.747796659746271,-1.633761828926481
-[21:25:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
-[21:29:20] [Server thread/INFO]: zDeathKnight_ was blown up by Creeper
-[21:38:03] [Server thread/INFO]: zDeathKnight_ tried to swim in lava
-[21:39:53] [Server thread/INFO]: zDeathKnight_ fell from a high place
-[21:48:08] [Server thread/INFO]: zDeathKnight_ lost connection: Disconnected
-[21:48:08] [Server thread/INFO]: zDeathKnight_ left the game
-[21:48:47] [Server thread/INFO]: Jhaydenx2009 has made the advancement [Sweet Dreams]
-[21:51:23] [Server thread/INFO]: Villager cpi['Librarian'/24733, l='ServerLevel[world]', x=7823.67, y=64.00, z=3322.50] died, message: 'Librarian burned to death'
-[21:52:38] [Server thread/INFO]: FELversgg[/127.234.242.55:36933] logged in with entity id 72314 at (-38.43049866852465, 72.0, 94.42621815607636)
-[21:52:38] [Server thread/INFO]: FELversgg joined the game
-[21:57:06] [Server thread/INFO]: Jhaydenx2009 lost connection: Disconnected
-[21:57:06] [Server thread/INFO]: Jhaydenx2009 left the game
-[22:12:37] [Server thread/INFO]: Villager cpi['Villager'/45340, l='ServerLevel[world]', x=7823.30, y=63.00, z=3322.48] died, message: 'Villager was slain by Zombisius IV'
-[22:33:10] [Server thread/INFO]: [Not Secure] <FELversgg> X: -263 Z: 304
-[22:34:42] [Server thread/INFO]: [Not Secure] <FELversgg> X:-32.875 z:38
-[22:41:45] [Server thread/INFO]: Perkzekil lost connection: Disconnected
-[22:41:45] [Server thread/INFO]: Perkzekil left the game
-[22:48:58] [Server thread/INFO]: Shadow_GS has completed the challenge [Hot Tourist Destinations]
-[22:55:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-29, y=52, z=27} jh{x=-29, y=50, z=28}
-[22:55:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-29, y=52, z=27} jh{x=-29, y=50, z=28}
-[23:45:53] [Server thread/INFO]: Shadow_GS has completed the challenge [Subspace Bubble]
-[23:49:22] [Server thread/INFO]: FELversgg has completed the challenge [Hot Tourist Destinations]
-[23:54:44] [Server thread/INFO]: FELversgg has completed the challenge [Subspace Bubble]
+[00:05:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:05:10] [ServerMain/INFO]: Loaded 1337 recipes
+[00:05:10] [ServerMain/INFO]: Loaded 1448 advancements
+[00:05:10] [Server thread/INFO]: Starting minecraft server version 1.21.2
+[00:05:10] [Server thread/INFO]: Loading properties
+[00:05:10] [Server thread/INFO]: Default game type: SURVIVAL
+[00:05:10] [Server thread/INFO]: Generating keypair
+[00:05:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:05:11] [Server thread/INFO]: Using epoll channel type
+[00:05:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:05:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:05:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:05:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:05:11] [Server thread/INFO]: Preparing level "world"
+[00:05:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:19] [Server thread/INFO]: Time elapsed: 7438 ms
+[00:05:19] [Server thread/INFO]: Done (7.862s)! For help, type "help"
+[00:05:27] [Server thread/INFO]: FELversgg[/127.234.242.55:38473] logged in with entity id 19 at (627.9693252956798, 67.12160004615784, 229.62315147257456)
+[00:05:27] [Server thread/INFO]: FELversgg joined the game
+[00:05:35] [Server thread/INFO]: Shadow_GS[/127.83.145.254:50419] logged in with entity id 124 at (7810.135986276993, 63.0, 3313.6396107997457)
+[00:05:35] [Server thread/INFO]: Shadow_GS joined the game
+[00:06:24] [Server thread/INFO]: RedSkull[/127.81.110.48:41049] logged in with entity id 634 at (-78.91854502147433, 103.0, 169.61218398773033)
+[00:06:24] [Server thread/INFO]: RedSkull joined the game
+[00:09:10] [Server thread/INFO]: [Not Secure] <RedSkull> chuiinnnnn
+[00:09:14] [Server thread/INFO]: [Not Secure] <RedSkull> altq
+[00:10:47] [Server thread/INFO]: [Not Secure] <RedSkull> como dijo alguna ves un sabio de maicraft ...jeeeeehh
+[00:12:17] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
+[00:12:27] [Server thread/INFO]: [Not Secure] <RedSkull> me volvere loco tanta espera
+[00:12:37] [Server thread/INFO]: [Not Secure] <RedSkull> cueva
+[00:12:52] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
+[00:12:57] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
+[00:12:59] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
+[00:13:01] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
+[00:13:03] [Server thread/INFO]: [Not Secure] <RedSkull> tchuin
+[00:13:06] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
+[00:13:08] [Server thread/INFO]: [Not Secure] <RedSkull> chuion
+[00:13:12] [Server thread/INFO]: [Not Secure] <RedSkull> chuion
+[00:13:16] [Server thread/INFO]: [Not Secure] <RedSkull> chupon
+[00:13:17] [Server thread/WARN]: FELversgg moved too quickly! -10.106965231931213,0.0,-0.7348883102399526
+[00:13:28] [Server thread/INFO]: [Not Secure] <RedSkull> king león
+[00:14:18] [Server thread/INFO]: [Not Secure] <RedSkull> veras el tamaño de mi polla de tanto farmear cuando venmgas+
+[00:15:53] [Server thread/INFO]: FELversgg was burned to a crisp while fighting Hoglin
+[00:17:13] [Server thread/INFO]: [Not Secure] <RedSkull> noiooo
+[00:17:23] [Server thread/INFO]: [Not Secure] <RedSkull> nos invaden lños duendes
+[00:18:28] [Server thread/INFO]: [Not Secure] <RedSkull> chuin+
+[00:18:32] [Server thread/INFO]: [Not Secure] <RedSkull> estoy afuera}
+[00:18:40] [Server thread/INFO]: [Not Secure] <RedSkull> ve a la cima
+[00:19:04] [Server thread/INFO]: [Not Secure] <RedSkull> aahora ves
+[00:19:17] [Server thread/INFO]: [Not Secure] <RedSkull> el tamaño de mi polla
+[00:19:26] [Server thread/INFO]: [Not Secure] <RedSkull> tengo un stack de polla ASADO
+[00:19:46] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIJN
+[00:19:52] [Server thread/INFO]: [Not Secure] <RedSkull> MATEMOS OVEJAS
+[00:19:57] [Server thread/INFO]: [Not Secure] <RedSkull> PARA HACER UNA CAMA+
+[00:20:45] [Server thread/INFO]: [Not Secure] <RedSkull> AAAAA
+[00:20:56] [Server thread/INFO]: [Not Secure] <RedSkull> ES UN AAAA DE EXCITACIÓN
+[00:21:13] [Server thread/INFO]: [Not Secure] <RedSkull> TENGO TODO LLENO
+[00:21:19] [Server thread/INFO]: [Not Secure] <RedSkull> NO PUEDO AGARRAR NADA
+[00:22:24] [Server thread/INFO]: RedSkull has made the advancement [We Need to Go Deeper]
+[00:22:45] [Server thread/INFO]: Perkzekil[/127.89.178.174:42119] logged in with entity id 7406 at (7795.237500011921, 65.0, 3288.3752526462085)
+[00:22:45] [Server thread/INFO]: Perkzekil joined the game
+[00:24:08] [Server thread/INFO]: [Not Secure] <RedSkull> QUE ES UN ZOGLIN?
