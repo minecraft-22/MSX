@@ -428,6 +428,7 @@
       "baked_potato": "2025-01-04 21:17:28 +0000",
       "golden_carrot": "2025-01-08 01:15:06 +0000",
       "cooked_chicken": "2025-01-02 00:03:33 +0000",
+      "enchanted_golden_apple": "2025-01-08 20:43:06 +0000",
       "potato": "2025-01-04 20:33:30 +0000",
       "cooked_cod": "2025-01-04 21:00:59 +0000",
       "cod": "2025-01-04 20:54:57 +0000",
@@ -3417,6 +3418,60 @@
   "minecraft:adventure/revaulting": {
     "criteria": {
       "revaulting": "2025-01-08 01:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-08 20:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-01-08 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-01-08 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-01-08 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-01-08 20:34:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-01-08 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-01-08 20:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-01-08 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-08 20:39:49 +0000"
     },
     "done": true
   },
