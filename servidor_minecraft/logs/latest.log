@@ -62,3 +62,8 @@
 [20:35:16] [Server thread/INFO]: Shadow_GS has made the advancement [Wax Off]
 [20:36:16] [Server thread/INFO]: Jhaydenx2009 has made the advancement [Isn't It Iron Pick]
 [20:39:24] [Server thread/INFO]: [Not Secure] <FELversgg> 7808 3339
+[20:55:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=889, y=46, z=374} jh{x=853, y=52, z=389}
+[20:55:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=853, y=54, z=389} jh{x=853, y=53, z=386}
+[20:55:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=853, y=54, z=389} jh{x=853, y=53, z=386}
+[20:55:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=853, y=54, z=389} jh{x=853, y=53, z=386}
+[20:55:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=853, y=54, z=389} jh{x=853, y=53, z=386}
