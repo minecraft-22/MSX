@@ -138,3 +138,73 @@
 [22:20:45] [Server thread/INFO]: FELversgg joined the game
 [22:21:22] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> (system) Felvers fue quemado al tratar de nadar en lava
 [22:21:29] [Server thread/INFO]: [Not Secure] <FELversgg> ?
+[22:23:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7798, y=62, z=3279} jh{x=7800, y=60, z=3281}
+[22:23:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7797, y=61, z=3280} jh{x=7800, y=60, z=3281}
+[22:23:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7797, y=61, z=3280} jh{x=7800, y=60, z=3281}
+[22:23:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7797, y=61, z=3280} jh{x=7800, y=60, z=3281}
+[22:23:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7797, y=61, z=3280} jh{x=7800, y=60, z=3281}
+[22:23:55] [Server thread/INFO]: Jhaydenx2009 lost connection: Disconnected
+[22:23:55] [Server thread/INFO]: Jhaydenx2009 left the game
+[22:27:29] [Server thread/INFO]: Jhaydenx2009[/127.253.28.219:44783] logged in with entity id 56469 at (6372.300946083486, 62.0, 3758.50597274486)
+[22:27:29] [Server thread/INFO]: Jhaydenx2009 joined the game
+[22:34:04] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> WATCH OUTT!!
+[22:34:20] [Server thread/INFO]: Shadow_GS lost connection: Disconnected
+[22:34:20] [Server thread/INFO]: Shadow_GS left the game
+[22:35:39] [Server thread/INFO]: Shadow_GS[/127.83.145.254:33783] logged in with entity id 66331 at (7788.879160041029, 67.0, 3510.658131782814)
+[22:35:39] [Server thread/INFO]: Shadow_GS joined the game
+[22:36:19] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> -11325 64 4371
+[22:37:30] [Server thread/INFO]: Shadow_GS has made the advancement [Local Brewery]
+[22:38:24] [Server thread/WARN]: Horse (vehicle of Perkzekil) moved wrongly! 0.254818154500299
+[22:39:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6830, y=84, z=2367} jh{x=6829, y=83, z=2367}
+[22:39:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6830, y=84, z=2368} jh{x=6829, y=83, z=2367}
+[22:39:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6828, y=97, z=2366} jh{x=6828, y=96, z=2366}
+[22:40:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6828, y=97, z=2368} jh{x=6828, y=96, z=2368}
+[22:42:29] [Server thread/INFO]: FELversgg lost connection: Disconnected
+[22:42:29] [Server thread/INFO]: FELversgg left the game
+[22:47:58] [Server thread/INFO]: FELversgg[/127.234.242.55:59899] logged in with entity id 72936 at (7779.885008675178, 63.0, 3303.537232814251)
+[22:47:58] [Server thread/INFO]: FELversgg joined the game
+[22:50:22] [Server thread/INFO]: Villager cpi['Fletcher'/66629, l='ServerLevel[world]', x=7823.70, y=63.00, z=3308.50] died, message: 'Fletcher was slain by Zombisius IV'
+[22:51:13] [Server thread/INFO]: Made shadow-gs a server operator
+[22:51:33] [Server thread/INFO]: Made Shadow_GS a server operator
+[22:52:03] [Server thread/INFO]: [Shadow_GS: The difficulty has been set to Hard]
+[22:54:58] [Server thread/INFO]: Perkzekil has made the advancement [Hidden in the Depths]
+[22:55:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=968, y=38, z=378} jh{x=970, y=43, z=378}
+[22:55:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=721, y=57, z=353} jh{x=721, y=57, z=354}
+[22:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=721, y=57, z=353} jh{x=721, y=57, z=354}
+[22:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=721, y=57, z=353} jh{x=721, y=57, z=354}
+[22:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=721, y=57, z=353} jh{x=721, y=57, z=354}
+[22:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=721, y=57, z=353} jh{x=721, y=57, z=354}
+[22:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=721, y=57, z=353} jh{x=721, y=57, z=354}
+[22:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=721, y=57, z=353} jh{x=721, y=57, z=354}
+[22:55:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=721, y=56, z=354} jh{x=723, y=54, z=355}
+[22:55:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=721, y=56, z=354} jh{x=723, y=54, z=355}
+[22:57:10] [Server thread/INFO]: Villager cpi['Fletcher'/66685, l='ServerLevel[world]', x=7823.55, y=63.00, z=3308.50] died, message: 'Fletcher was slain by Zombisius IV'
+[22:57:27] [Server thread/INFO]: Villager cpi['Fletcher'/66631, l='ServerLevel[world]', x=7823.55, y=63.00, z=3306.50] died, message: 'Fletcher was slain by Zombisius IV'
+[22:57:43] [Server thread/INFO]: Villager cpi['Fletcher'/66630, l='ServerLevel[world]', x=7823.70, y=63.00, z=3310.50] died, message: 'Fletcher was slain by Zombisius IV'
+[22:59:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=674, y=55, z=312} jh{x=675, y=54, z=312}
+[23:01:13] [Server thread/INFO]: Shadow_GS has reached the goal [Zombie Doctor]
+[23:01:47] [Server thread/INFO]: Jhaydenx2009 lost connection: Disconnected
+[23:01:47] [Server thread/INFO]: Jhaydenx2009 left the game
+[23:01:56] [Server thread/INFO]: Jhaydenx2009[/127.253.28.219:40011] logged in with entity id 84513 at (6593.4351772012305, 61.001234036102126, 1831.758862852156)
+[23:01:56] [Server thread/INFO]: Jhaydenx2009 joined the game
+[23:03:48] [Server thread/INFO]: Villager cpi['Fletcher'/85108, l='ServerLevel[world]', x=7823.70, y=63.00, z=3310.50] died, message: 'Fletcher was slain by Zombisius IV'
+[23:03:51] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> elcachasubs
+[23:04:00] [Server thread/INFO]: Villager cpi['Fletcher'/83837, l='ServerLevel[world]', x=7823.70, y=63.00, z=3306.50] died, message: 'Fletcher was slain by Zombisius IV'
+[23:04:10] [Server thread/INFO]: Perkzekil has made the advancement [Local Brewery]
+[23:04:20] [Server thread/INFO]: Villager cpi['Fletcher'/84171, l='ServerLevel[world]', x=7823.70, y=63.00, z=3308.50] died, message: 'Fletcher was slain by Zombisius IV'
+[23:04:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6850, y=53, z=1968} jh{x=6851, y=52, z=1968}
+[23:04:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6851, y=53, z=1968} jh{x=6851, y=52, z=1968}
+[23:05:28] [Server thread/INFO]: Shadow_GS has made the advancement [Hidden in the Depths]
+[23:08:11] [Server thread/INFO]: Perkzekil has reached the goal [Zombie Doctor]
+[23:08:43] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 7068 70 1707
+[23:11:52] [Server thread/INFO]: Villager cpi['Fletcher'/89711, l='ServerLevel[world]', x=7823.70, y=63.00, z=3310.50] died, message: 'Fletcher was slain by Zombisius IV'
+[23:12:19] [Server thread/INFO]: Villager cpi['Fletcher'/89295, l='ServerLevel[world]', x=7823.70, y=63.00, z=3308.50] died, message: 'Fletcher was slain by Zombisius IV'
+[23:12:52] [Server thread/INFO]: Villager cpi['Fletcher'/89859, l='ServerLevel[world]', x=7823.70, y=63.00, z=3306.50] died, message: 'Fletcher was slain by Zombisius IV'
+[23:17:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6842, y=53, z=1715} jh{x=6842, y=51, z=1715}
+[23:18:36] [Server thread/INFO]: [Not Secure] <Shadow_GS> 974 62 414
+[23:19:44] [Server thread/INFO]: Villager cpi['Fletcher'/94829, l='ServerLevel[world]', x=7823.70, y=63.00, z=3310.50] died, message: 'Fletcher was slain by Zombisius IV'
+[23:20:01] [Server thread/INFO]: Villager cpi['Fletcher'/94513, l='ServerLevel[world]', x=7823.65, y=63.00, z=3308.50] died, message: 'Fletcher was slain by Zombisius IV'
+[23:20:42] [Server thread/INFO]: Villager cpi['Fletcher'/95295, l='ServerLevel[world]', x=7823.70, y=63.00, z=3306.50] died, message: 'Fletcher was slain by Zombisius IV'
+[23:22:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6840, y=48, z=1714} jh{x=6839, y=50, z=1714}
+[23:22:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6840, y=48, z=1714} jh{x=6839, y=50, z=1714}
+[23:22:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6840, y=48, z=1714} jh{x=6839, y=50, z=1714}
