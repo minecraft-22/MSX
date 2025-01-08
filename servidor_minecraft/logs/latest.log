@@ -1,273 +1,60 @@
-[00:05:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:05:10] [ServerMain/INFO]: Loaded 1337 recipes
-[00:05:10] [ServerMain/INFO]: Loaded 1448 advancements
-[00:05:10] [Server thread/INFO]: Starting minecraft server version 1.21.2
-[00:05:10] [Server thread/INFO]: Loading properties
-[00:05:10] [Server thread/INFO]: Default game type: SURVIVAL
-[00:05:10] [Server thread/INFO]: Generating keypair
-[00:05:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:05:11] [Server thread/INFO]: Using epoll channel type
-[00:05:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:05:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:05:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:05:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:05:11] [Server thread/INFO]: Preparing level "world"
-[00:05:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:05:19] [Server thread/INFO]: Time elapsed: 7438 ms
-[00:05:19] [Server thread/INFO]: Done (7.862s)! For help, type "help"
-[00:05:27] [Server thread/INFO]: FELversgg[/127.234.242.55:38473] logged in with entity id 19 at (627.9693252956798, 67.12160004615784, 229.62315147257456)
-[00:05:27] [Server thread/INFO]: FELversgg joined the game
-[00:05:35] [Server thread/INFO]: Shadow_GS[/127.83.145.254:50419] logged in with entity id 124 at (7810.135986276993, 63.0, 3313.6396107997457)
-[00:05:35] [Server thread/INFO]: Shadow_GS joined the game
-[00:06:24] [Server thread/INFO]: RedSkull[/127.81.110.48:41049] logged in with entity id 634 at (-78.91854502147433, 103.0, 169.61218398773033)
-[00:06:24] [Server thread/INFO]: RedSkull joined the game
-[00:09:10] [Server thread/INFO]: [Not Secure] <RedSkull> chuiinnnnn
-[00:09:14] [Server thread/INFO]: [Not Secure] <RedSkull> altq
-[00:10:47] [Server thread/INFO]: [Not Secure] <RedSkull> como dijo alguna ves un sabio de maicraft ...jeeeeehh
-[00:12:17] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
-[00:12:27] [Server thread/INFO]: [Not Secure] <RedSkull> me volvere loco tanta espera
-[00:12:37] [Server thread/INFO]: [Not Secure] <RedSkull> cueva
-[00:12:52] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
-[00:12:57] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
-[00:12:59] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
-[00:13:01] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
-[00:13:03] [Server thread/INFO]: [Not Secure] <RedSkull> tchuin
-[00:13:06] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
-[00:13:08] [Server thread/INFO]: [Not Secure] <RedSkull> chuion
-[00:13:12] [Server thread/INFO]: [Not Secure] <RedSkull> chuion
-[00:13:16] [Server thread/INFO]: [Not Secure] <RedSkull> chupon
-[00:13:17] [Server thread/WARN]: FELversgg moved too quickly! -10.106965231931213,0.0,-0.7348883102399526
-[00:13:28] [Server thread/INFO]: [Not Secure] <RedSkull> king león
-[00:14:18] [Server thread/INFO]: [Not Secure] <RedSkull> veras el tamaño de mi polla de tanto farmear cuando venmgas+
-[00:15:53] [Server thread/INFO]: FELversgg was burned to a crisp while fighting Hoglin
-[00:17:13] [Server thread/INFO]: [Not Secure] <RedSkull> noiooo
-[00:17:23] [Server thread/INFO]: [Not Secure] <RedSkull> nos invaden lños duendes
-[00:18:28] [Server thread/INFO]: [Not Secure] <RedSkull> chuin+
-[00:18:32] [Server thread/INFO]: [Not Secure] <RedSkull> estoy afuera}
-[00:18:40] [Server thread/INFO]: [Not Secure] <RedSkull> ve a la cima
-[00:19:04] [Server thread/INFO]: [Not Secure] <RedSkull> aahora ves
-[00:19:17] [Server thread/INFO]: [Not Secure] <RedSkull> el tamaño de mi polla
-[00:19:26] [Server thread/INFO]: [Not Secure] <RedSkull> tengo un stack de polla ASADO
-[00:19:46] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIJN
-[00:19:52] [Server thread/INFO]: [Not Secure] <RedSkull> MATEMOS OVEJAS
-[00:19:57] [Server thread/INFO]: [Not Secure] <RedSkull> PARA HACER UNA CAMA+
-[00:20:45] [Server thread/INFO]: [Not Secure] <RedSkull> AAAAA
-[00:20:56] [Server thread/INFO]: [Not Secure] <RedSkull> ES UN AAAA DE EXCITACIÓN
-[00:21:13] [Server thread/INFO]: [Not Secure] <RedSkull> TENGO TODO LLENO
-[00:21:19] [Server thread/INFO]: [Not Secure] <RedSkull> NO PUEDO AGARRAR NADA
-[00:22:24] [Server thread/INFO]: RedSkull has made the advancement [We Need to Go Deeper]
-[00:22:45] [Server thread/INFO]: Perkzekil[/127.89.178.174:42119] logged in with entity id 7406 at (7795.237500011921, 65.0, 3288.3752526462085)
-[00:22:45] [Server thread/INFO]: Perkzekil joined the game
-[00:24:08] [Server thread/INFO]: [Not Secure] <RedSkull> QUE ES UN ZOGLIN?
-[00:26:40] [Server thread/INFO]: RedSkull has made the advancement [A Terrible Fortress]
-[00:27:37] [Server thread/INFO]: RedSkull has completed the challenge [Hot Tourist Destinations]
-[00:30:12] [Server thread/INFO]: FELversgg was fireballed by Ghast
-[00:30:29] [Server thread/INFO]: [Not Secure] <RedSkull> LO DEJE ALLI
-[00:30:36] [Server thread/INFO]: [Not Secure] <RedSkull> HENRY USANDO HACKS
-[00:30:44] [Server thread/INFO]: [Not Secure] <RedSkull> SE TEPEA
-[00:31:15] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIN RECUERDA QUE PARA PONER BNLOQUES ES SALTAR Y CLINCK
-[00:31:46] [Server thread/INFO]: [Not Secure] <RedSkull> CON ESPADA A UBNO QUE VUELA
-[00:32:17] [Server thread/INFO]: RedSkull has completed the challenge [Subspace Bubble]
-[00:34:00] [Server thread/INFO]: [Not Secure] <RedSkull> HEBNREY
-[00:34:12] [Server thread/INFO]: [Not Secure] <RedSkull> TE SOBRA UNA ESPADA DE DIAMANTE ENCANTADA
-[00:34:48] [Server thread/INFO]: [Not Secure] <RedSkull> COMO MALÑOGRO LA GRANJA?
-[00:35:16] [Server thread/INFO]: [Not Secure] <RedSkull> PARA QUE NON SE CAIGA
-[00:37:57] [Server thread/INFO]: [Not Secure] <RedSkull> HENRY
-[00:38:04] [Server thread/INFO]: [Not Secure] <RedSkull> PARA FARMEAR ARMADURA
-[00:38:08] [Server thread/INFO]: Villager cpi['Villager'/13927, l='ServerLevel[world]', x=7822.85, y=59.00, z=3292.85] died, message: 'Villager was slain by Shadow_GS'
-[00:39:02] [Server thread/INFO]: Perkzekil lost connection: Disconnected
-[00:39:02] [Server thread/INFO]: Perkzekil left the game
-[00:39:17] [Server thread/INFO]: FELversgg lost connection: Disconnected
-[00:39:17] [Server thread/INFO]: FELversgg left the game
-[00:39:21] [Server thread/INFO]: Perkzekil[/127.89.178.174:44981] logged in with entity id 17140 at (7798.300000011921, 73.0, 3289.4197313353106)
-[00:39:21] [Server thread/INFO]: Perkzekil joined the game
-[00:39:26] [Server thread/INFO]: FELversgg[/127.234.242.55:41667] logged in with entity id 17174 at (667.313344288039, 64.0, 337.31213950851105)
-[00:39:26] [Server thread/INFO]: FELversgg joined the game
-[00:40:59] [Server thread/INFO]: RedSkull has made the advancement [Diamonds!]
-[00:41:53] [Server thread/INFO]: Perkzekil has made the advancement [What a Deal!]
-[00:42:37] [Server thread/INFO]: [Not Secure] <RedSkull> NO
-[00:44:44] [Server thread/INFO]: FELversgg lost connection: Disconnected
-[00:44:44] [Server thread/INFO]: FELversgg left the game
-[00:45:00] [Server thread/INFO]: [Not Secure] <RedSkull> JAJJA MANO
-[00:45:08] [Server thread/INFO]: [Not Secure] <RedSkull> ES MI VENGANZA P
-[00:45:22] [Server thread/INFO]: [Not Secure] <RedSkull> UN DIA DE ESPERA DESPUES
-[00:46:25] [Server thread/INFO]: RedSkull has made the advancement [Sweet Dreams]
-[00:51:11] [Server thread/INFO]: FELversgg[/127.234.242.55:60585] logged in with entity id 21060 at (687.6999999880791, 67.0, 346.30000001192093)
-[00:51:11] [Server thread/INFO]: FELversgg joined the game
-[00:51:36] [Server thread/INFO]: RedSkull has made the advancement [Enchanter]
-[00:54:54] [Server thread/INFO]: [Not Secure] <RedSkull> se
-[00:55:35] [Server thread/INFO]: Villager cpi['Librarian'/7469, l='ServerLevel[world]', x=7823.70, y=64.00, z=3322.30] died, message: 'Librarian blew up'
-[00:55:38] [Server thread/INFO]: RedSkull lost connection: Disconnected
-[00:55:38] [Server thread/INFO]: RedSkull left the game
-[00:56:34] [Server thread/INFO]: Villager cpi['Butcher'/7471, l='ServerLevel[world]', x=7823.70, y=63.00, z=3326.50] died, message: 'Butcher was slain by Zombisius IV'
-[00:58:08] [Server thread/INFO]: Perkzekil lost connection: Timed out
-[00:58:08] [Server thread/INFO]: Perkzekil left the game
-[00:58:08] [Server thread/WARN]: handleDisconnection() called twice
-[00:59:40] [Server thread/INFO]: Perkzekil[/127.89.178.174:42391] logged in with entity id 24248 at (7828.6906626664995, 63.0, 3335.794000096553)
-[00:59:40] [Server thread/INFO]: Perkzekil joined the game
-[01:09:41] [Server thread/INFO]: Villager cpi['Librarian'/7448, l='ServerLevel[world]', x=7805.84, y=63.00, z=3289.50] died, message: 'Librarian tried to swim in lava'
-[01:23:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7870, y=65, z=3369} jh{x=7870, y=64, z=3369}
-[01:23:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7870, y=65, z=3369} jh{x=7870, y=64, z=3369}
-[01:23:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7870, y=65, z=3369} jh{x=7870, y=64, z=3369}
-[01:23:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7870, y=65, z=3369} jh{x=7870, y=64, z=3369}
-[01:23:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=7870, y=65, z=3369} jh{x=7870, y=64, z=3369}
-[01:26:55] [Server thread/INFO]: Shadow_GS lost connection: Disconnected
-[01:26:55] [Server thread/INFO]: Shadow_GS left the game
-[01:37:59] [Server thread/INFO]: Perkzekil lost connection: Disconnected
-[01:37:59] [Server thread/INFO]: Perkzekil left the game
-[01:44:24] [Server thread/INFO]: Shadow_GS[/127.83.145.254:36399] logged in with entity id 37253 at (7820.902425811087, 64.0, 3323.728644431819)
-[01:44:24] [Server thread/INFO]: Shadow_GS joined the game
-[01:58:41] [Server thread/INFO]: RedSkull[/127.81.110.48:57781] logged in with entity id 40122 at (7802.244108132733, 63.0, 3321.300000011921)
-[01:58:41] [Server thread/INFO]: RedSkull joined the game
-[02:00:27] [Server thread/INFO]: [Not Secure] <RedSkull> assa
-[02:01:08] [Server thread/INFO]: RedSkull has made the advancement [Not Today, Thank You]
-[02:01:50] [Server thread/INFO]: [Not Secure] <RedSkull> ewss
-[02:05:07] [Server thread/INFO]: RedSkull was slain by FELversgg
-[02:05:19] [Server thread/INFO]: [Not Secure] <RedSkull> chuin
-[02:05:25] [Server thread/INFO]: [Not Secure] <RedSkull> mis cosas y me voy
-[02:05:41] [Server thread/INFO]: [Not Secure] <RedSkull> NO AGARRES NADA
-[02:06:08] [Server thread/INFO]: [Not Secure] <RedSkull> AHORA TABLAS
-[02:06:24] [Server thread/INFO]: [Not Secure] <RedSkull> EMPATE MI AMIGO
-[02:06:39] [Server thread/INFO]: [Not Secure] <RedSkull> NO ENTENDISTE FUE
-[02:07:22] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIN
-[02:07:26] [Server thread/INFO]: [Not Secure] <RedSkull> TEN
-[02:07:58] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIN
-[02:08:00] [Server thread/INFO]: RedSkull was slain by FELversgg
-[02:08:15] [Server thread/INFO]: [Not Secure] <RedSkull> AGARRASTE TODO
-[02:08:59] [Server thread/INFO]: [Not Secure] <RedSkull> ME FGALTAN COSAS
-[02:09:10] [Server thread/INFO]: [Not Secure] <RedSkull> WWWWWW
-[02:09:25] [Server thread/INFO]: [Not Secure] <RedSkull> NO HAY MI ESCUDO
-[02:09:34] [Server thread/INFO]: [Not Secure] <RedSkull> mbn
-[02:10:08] [Server thread/INFO]: RedSkull was slain by FELversgg
-[02:10:28] [Server thread/INFO]: [Not Secure] <RedSkull> jaja
-[02:10:34] [Server thread/INFO]: [Not Secure] <RedSkull> que haces indigena
-[02:11:10] [Server thread/INFO]: [Not Secure] <RedSkull> yo tener hambre
-[02:14:18] [Server thread/INFO]: RedSkull has made the advancement [Take Aim]
-[02:15:42] [Server thread/INFO]: FELversgg was shot by RedSkull
-[02:15:55] [Server thread/INFO]: [Not Secure] <RedSkull> rte devuelvo
-[02:16:00] [Server thread/INFO]: RedSkull was slain by FELversgg
-[02:16:26] [Server thread/INFO]: [Not Secure] <RedSkull> mis cosas
-[02:17:29] [Server thread/INFO]: Villager cpi['Cleric'/44717, l='ServerLevel[world]', x=7799.46, y=64.56, z=3287.50] died, message: 'Cleric was slain by FELversgg'
-[02:17:43] [Server thread/INFO]: RedSkull drowned
-[02:17:59] [Server thread/INFO]: RedSkull was slain by FELversgg
-[02:18:36] [Server thread/INFO]: RedSkull drowned
-[02:19:45] [Server thread/INFO]: RedSkull was slain by FELversgg
-[02:19:58] [Server thread/INFO]: [Not Secure] <RedSkull> weso era mio
-[02:20:03] [Server thread/INFO]: [Not Secure] <RedSkull> pero ya fue
-[02:24:44] [Server thread/INFO]: [Not Secure] <RedSkull> ttwer
-[02:24:57] [Server thread/INFO]: [Not Secure] <RedSkull> como salgo de el botye
-[02:25:10] [Server thread/INFO]: [Not Secure] <RedSkull> www
-[02:27:17] [Server thread/INFO]: [Not Secure] <RedSkull> AYUDA
-[02:28:49] [Server thread/INFO]: [Not Secure] <RedSkull> JKAJAJA
-[02:28:55] [Server thread/INFO]: [Not Secure] <RedSkull> COMO HABLA
-[02:29:32] [Server thread/INFO]: [Not Secure] <RedSkull> JAJAJA
-[02:29:36] [Server thread/INFO]: [Not Secure] <RedSkull> COMO HABLA
-[02:29:42] [Server thread/INFO]: [Not Secure] <RedSkull> NO TE RETO
-[02:29:47] [Server thread/INFO]: [Not Secure] <RedSkull> SOLO ME DA RIS
-[02:30:04] [Server thread/INFO]: [Not Secure] <RedSkull> ENSERIO
-[02:30:09] [Server thread/INFO]: [Not Secure] <RedSkull> YA YA
-[02:31:29] [Server thread/INFO]: [Not Secure] <RedSkull> NO
-[02:31:32] [Server thread/INFO]: [Not Secure] <RedSkull> NO TENGO
-[02:31:37] [Server thread/INFO]: [Not Secure] <RedSkull> PERO TE PUEDO DAR COMIDA
-[02:31:47] [Server thread/INFO]: [Not Secure] <RedSkull> BNO+
-[02:32:00] [Server thread/INFO]: [Not Secure] <RedSkull> FUI BENEBOLENTE
-[02:34:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-192, y=118, z=216} jh{x=-192, y=116, z=215}
-[02:34:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-192, y=118, z=216} jh{x=-192, y=116, z=215}
-[02:34:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-193, y=118, z=216} jh{x=-193, y=116, z=216}
-[02:34:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-193, y=118, z=216} jh{x=-193, y=116, z=216}
-[02:34:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-193, y=118, z=216} jh{x=-193, y=116, z=216}
-[02:34:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-193, y=118, z=216} jh{x=-193, y=116, z=216}
-[02:35:21] [Server thread/INFO]: [Not Secure] <RedSkull> CARERO MI CAUSA ALDEANO
-[02:35:36] [Server thread/INFO]: [Not Secure] <RedSkull> PA Q TE SIRVE ESE LKIBRO
-[02:35:58] [Server thread/INFO]: [Not Secure] <RedSkull> PERO PA Q TE SRIVE
-[02:36:53] [Server thread/INFO]: [Not Secure] <RedSkull> A QUE SE REFIERE CON COSTO 5
-[02:37:12] [Server thread/INFO]: [Not Secure] <RedSkull> AEA ESQ ESE CHUIN ME MATO
-[02:38:25] [Server thread/INFO]: [Not Secure] <RedSkull> QUERIA DARTE ASI
-[02:38:30] [Server thread/INFO]: [Not Secure] <RedSkull> CALRO Q SE MEN
-[02:39:03] [Server thread/INFO]: [Not Secure] <RedSkull> y perry?
-[02:39:08] [Server thread/INFO]: [Not Secure] <RedSkull> quise decir chuin+
-[02:39:37] [Server thread/INFO]: [Not Secure] <RedSkull> ja chistoso
-[02:41:17] [Server thread/INFO]: [Not Secure] <RedSkull> ya vine colega
-[02:41:37] [Server thread/INFO]: [Not Secure] <RedSkull> enserio p
-[02:42:24] [Server thread/INFO]: [Not Secure] <RedSkull> que haces mmmmm
-[02:43:31] [Server thread/INFO]: [Not Secure] <RedSkull> chicos
-[02:43:39] [Server thread/INFO]: [Not Secure] <RedSkull> estoy tocado
-[02:43:46] [Server thread/INFO]: [Not Secure] <RedSkull> les dire mis ultimas palabras
-[02:43:53] [Server thread/INFO]: [Not Secure] <RedSkull> le dejo todo a chuin
-[02:44:13] [Server thread/INFO]: [Not Secure] <RedSkull> encontre mas bloques de hueso
-[02:44:48] [Server thread/INFO]: [Not Secure] <RedSkull> voy a tomar el castillo
-[02:46:19] [Server thread/INFO]: [Not Secure] <RedSkull> SI
-[02:46:42] [Server thread/INFO]: [Not Secure] <RedSkull> YA NO
-[02:46:49] [Server thread/INFO]: [Not Secure] <RedSkull> NO QUIERO SOBRAS
-[02:47:08] [Server thread/INFO]: Villager cpi['Librarian'/7473, l='ServerLevel[world]', x=7801.85, y=63.19, z=3319.14] died, message: 'Librarian was slain by RedSkull'
-[02:47:13] [Server thread/INFO]: Villager cpi['Butcher'/7474, l='ServerLevel[world]', x=7802.01, y=63.19, z=3319.25] died, message: 'Butcher was slain by RedSkull'
-[02:47:30] [Server thread/INFO]: [Not Secure] <RedSkull> PERO DIJISTE QUE NO A TU GRANJA+
-[02:47:43] [Server thread/INFO]: [Not Secure] <RedSkull> JAJA NOOO
-[02:48:09] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIN
-[02:48:14] [Server thread/INFO]: [Not Secure] <RedSkull> NECESITO HIERRO
-[02:49:31] [Server thread/INFO]: [Not Secure] <RedSkull> PARA QUE HACEN ESO
-[02:49:54] [Server thread/INFO]: [Not Secure] <RedSkull> YA YA CHUIN YA
-[02:50:02] [Server thread/INFO]: [Not Secure] <RedSkull> ESQ CONFGIABA EN TI
-[02:51:44] [Server thread/INFO]: RedSkull was slain by FELversgg
-[02:52:03] [Server thread/INFO]: [Not Secure] <RedSkull> ESTE NO ES MIOO
-[02:52:07] [Server thread/INFO]: [Not Secure] <RedSkull> NO ES
-[02:52:26] [Server thread/INFO]: [Not Secure] <RedSkull> DAME EL LIBRO
-[02:54:30] [Server thread/INFO]: FELversgg was shot by RedSkull
-[02:54:33] [Server thread/INFO]: RedSkull has made the advancement [Cover Me with Diamonds]
-[02:54:54] [Server thread/INFO]: RedSkull was slain by FELversgg
-[02:55:04] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIN
-[02:55:10] [Server thread/INFO]: [Not Secure] <RedSkull> TE HIBA A HAER UNA BROMA
-[02:55:40] [Server thread/INFO]: [Not Secure] <RedSkull> YA
-[02:55:48] [Server thread/INFO]: [Not Secure] <RedSkull> DAME
-[02:57:47] [Server thread/INFO]: RedSkull was shot by Skeleton
-[02:58:51] [Server thread/INFO]: RedSkull was slain by FELversgg
-[03:01:32] [Server thread/INFO]: [Not Secure] <RedSkull> F
-[03:01:50] [Server thread/INFO]: RedSkull lost connection: Disconnected
-[03:01:50] [Server thread/INFO]: RedSkull left the game
-[03:01:55] [Server thread/INFO]: RedSkull[/127.81.110.48:48923] logged in with entity id 63766 at (7805.003119658889, 48.0, 3306.699999988079)
-[03:01:55] [Server thread/INFO]: RedSkull joined the game
-[03:02:11] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIN
-[03:02:19] [Server thread/INFO]: [Not Secure] <RedSkull> SACAME DE AQUI
-[03:02:22] [Server thread/INFO]: [Not Secure] <RedSkull> MMMMMM
-[03:02:27] [Server thread/INFO]: [Not Secure] <RedSkull> ,MMMMMMM
-[03:02:45] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIN
-[03:02:55] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIN
-[03:03:26] [Server thread/INFO]: [Not Secure] <RedSkull> DAME UN VALDE
-[03:03:29] [Server thread/INFO]: [Not Secure] <RedSkull> O HIERRO
-[03:03:46] [Server thread/INFO]: [Not Secure] <RedSkull> PARA NO CAER EN TU TRAMPA
-[03:04:06] [Server thread/INFO]: RedSkull has made the advancement [Hot Stuff]
-[03:04:48] [Server thread/INFO]: [Not Secure] <RedSkull> CHUIN
-[03:04:54] [Server thread/INFO]: [Not Secure] <RedSkull> VEN
-[03:05:09] [Server thread/INFO]: [Not Secure] <RedSkull> TE TOCA
-[03:05:22] [Server thread/INFO]: [Not Secure] <RedSkull> ENTRA
-[03:05:31] [Server thread/INFO]: [Not Secure] <RedSkull> ENTRAS
-[03:05:54] [Server thread/INFO]: [Not Secure] <RedSkull> QUERIA HACER OBSIDIANA
-[03:06:30] [Server thread/INFO]: RedSkull was doomed to fall by FELversgg
-[03:07:48] [Server thread/INFO]: RedSkull was slain by FELversgg
-[03:08:42] [Server thread/INFO]: [Not Secure] <RedSkull> ATQ
-[03:09:57] [Server thread/INFO]: RedSkull drowned
-[03:10:57] [Server thread/INFO]: FELversgg was slain by RedSkull
-[03:11:08] [Server thread/INFO]: [Not Secure] <RedSkull> t
-[03:13:39] [Server thread/INFO]: RedSkull has made the advancement [Minecraft: Trial(s) Edition]
-[03:14:11] [Server thread/INFO]: FELversgg has made the advancement [Minecraft: Trial(s) Edition]
-[03:15:08] [Server thread/INFO]: RedSkull was slain by FELversgg
-[03:15:25] [Server thread/INFO]: [Not Secure] <RedSkull> pico
-[03:15:28] [Server thread/INFO]: [Not Secure] <RedSkull> porfa
-[03:16:50] [Server thread/INFO]: RedSkull fell from a high place
-[03:17:09] [Server thread/WARN]: RedSkull moved too quickly! 0.0,-12.26235899931213,-0.4193065470522015
-[03:17:11] [Server thread/INFO]: RedSkull has made the advancement [Isn't It Iron Pick]
+[20:21:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:21:08] [ServerMain/INFO]: Loaded 1337 recipes
+[20:21:08] [ServerMain/INFO]: Loaded 1448 advancements
+[20:21:08] [Server thread/INFO]: Starting minecraft server version 1.21.2
+[20:21:08] [Server thread/INFO]: Loading properties
+[20:21:08] [Server thread/INFO]: Default game type: SURVIVAL
+[20:21:08] [Server thread/INFO]: Generating keypair
+[20:21:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:21:09] [Server thread/INFO]: Using epoll channel type
+[20:21:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:21:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:21:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:21:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:21:09] [Server thread/INFO]: Preparing level "world"
+[20:21:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:21:21] [Server thread/INFO]: Time elapsed: 11352 ms
+[20:21:21] [Server thread/INFO]: Done (12.239s)! For help, type "help"
+[20:22:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:22:25] [Server thread/INFO]: Jhaydenx2009[/127.253.28.219:58489] logged in with entity id 3 at (7512.300000011921, -23.0, 3080.300000011921)
+[20:22:25] [Server thread/INFO]: Jhaydenx2009 joined the game
+[20:22:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[20:23:27] [Server thread/INFO]: Shadow_GS[/127.83.145.254:42913] logged in with entity id 377 at (7804.716497923936, 63.0, 3316.0190997902737)
+[20:23:27] [Server thread/INFO]: Shadow_GS joined the game
+[20:23:29] [Server thread/INFO]: Jhaydenx2009 lost connection: Disconnected
+[20:23:29] [Server thread/INFO]: Jhaydenx2009 left the game
+[20:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[20:23:39] [Server thread/INFO]: Jhaydenx2009[/127.253.28.219:56931] logged in with entity id 691 at (7567.6733377588625, -15.0, 3065.02547639042)
+[20:23:39] [Server thread/INFO]: Jhaydenx2009 joined the game
+[20:23:55] [Server thread/INFO]: Jhaydenx2009 burned to death
+[20:24:52] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 7581 -16 3059
+[20:26:17] [Server thread/INFO]: FELversgg[/127.234.242.55:57815] logged in with entity id 1547 at (7800.106591543811, 63.5, 3288.302027568272)
+[20:26:17] [Server thread/INFO]: FELversgg joined the game
+[20:26:52] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 7581 -16 3059
+[20:28:14] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 7581 -16 3059
+[20:30:12] [Server thread/INFO]: Perkzekil[/127.89.178.174:53347] logged in with entity id 3411 at (7773.699999988079, -29.0, 3322.699999988079)
+[20:30:12] [Server thread/INFO]: Perkzekil joined the game
+[20:30:17] [Server thread/INFO]: [Not Secure] <Jhaydenx2009> 7581 -16 3059
