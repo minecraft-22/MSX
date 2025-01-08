@@ -208,3 +208,7 @@
 [23:22:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6840, y=48, z=1714} jh{x=6839, y=50, z=1714}
 [23:22:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6840, y=48, z=1714} jh{x=6839, y=50, z=1714}
 [23:22:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6840, y=48, z=1714} jh{x=6839, y=50, z=1714}
+[23:23:58] [Server thread/INFO]: Perkzekil fell from a high place
+[23:24:09] [Server thread/INFO]: Perkzekil fell from a high place
+[23:26:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6846, y=51, z=1719} jh{x=6846, y=51, z=1718}
+[23:34:04] [Server thread/INFO]: Shadow_GS was slain by Zombie
