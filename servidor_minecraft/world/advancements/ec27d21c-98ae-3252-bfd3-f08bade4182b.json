@@ -623,6 +623,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-05 22:24:36 +0000",
       "minecraft:skeleton": "2025-01-01 03:57:04 +0000",
+      "minecraft:zombified_piglin": "2025-01-08 21:48:35 +0000",
       "minecraft:witch": "2025-01-04 20:02:34 +0000",
       "minecraft:wither_skeleton": "2025-01-05 00:06:29 +0000",
       "minecraft:bogged": "2025-01-08 00:37:37 +0000",
@@ -3422,6 +3423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 21:41:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
     "criteria": {
       "has_flow_armor_trim_smithing_template": "2025-01-08 21:22:02 +0000"
@@ -3440,9 +3447,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-01-08 21:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 21:41:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-01-08 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 21:41:03 +0000"
     },
     "done": true
   },
@@ -3485,6 +3510,18 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-01-08 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 21:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 21:41:03 +0000"
     },
     "done": true
   },
