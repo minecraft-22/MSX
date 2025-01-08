@@ -3465,6 +3465,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-01-08 22:04:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_ingot": "2025-01-08 21:41:03 +0000"

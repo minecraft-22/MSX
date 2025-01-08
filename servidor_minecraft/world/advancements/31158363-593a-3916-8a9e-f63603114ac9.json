@@ -584,6 +584,7 @@
       "minecraft:zombified_piglin": "2025-01-04 23:54:47 +0000",
       "minecraft:wither_skeleton": "2025-01-04 23:57:46 +0000",
       "minecraft:bogged": "2025-01-08 00:37:52 +0000",
+      "minecraft:ghast": "2025-01-08 22:16:54 +0000",
       "minecraft:cave_spider": "2025-01-08 01:18:55 +0000",
       "minecraft:breeze": "2025-01-08 00:41:25 +0000",
       "minecraft:stray": "2025-01-02 00:38:43 +0000",
@@ -2619,6 +2620,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-01-08 22:04:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-08 22:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-01-08 21:53:56 +0000"
@@ -2640,6 +2653,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-01-08 21:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-08 22:19:28 +0000"
     },
     "done": true
   },
