@@ -596,7 +596,9 @@
       "minecraft:spider": "2025-01-01 04:11:33 +0000",
       "minecraft:zombie": "2025-01-01 04:06:50 +0000",
       "minecraft:creeper": "2025-01-01 23:54:57 +0000",
-      "minecraft:zombie_villager": "2025-01-01 04:30:32 +0000"
+      "minecraft:drowned": "2025-01-09 01:48:27 +0000",
+      "minecraft:zombie_villager": "2025-01-01 04:30:32 +0000",
+      "minecraft:evoker": "2025-01-09 01:33:56 +0000"
     },
     "done": false
   },
@@ -2849,6 +2851,18 @@
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2025-01-09 01:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-09 01:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-09 01:46:02 +0000"
     },
     "done": true
   },
