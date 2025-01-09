@@ -3633,5 +3633,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/blowback": {
+    "criteria": {
+      "blowback": "2025-01-09 00:15:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4080
 }

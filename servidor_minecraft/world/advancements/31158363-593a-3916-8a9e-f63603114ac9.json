@@ -656,6 +656,7 @@
       "cooked_porkchop": "2025-01-02 00:38:28 +0000",
       "bread": "2025-01-04 21:21:35 +0000",
       "cooked_chicken": "2025-01-08 00:50:48 +0000",
+      "enchanted_golden_apple": "2025-01-09 00:12:36 +0000",
       "cooked_mutton": "2025-01-01 04:07:38 +0000",
       "cooked_beef": "2025-01-01 04:29:49 +0000",
       "rabbit_stew": "2025-01-06 01:09:00 +0000",
@@ -2701,6 +2702,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-01-08 23:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-01-09 00:14:39 +0000"
     },
     "done": true
   },
