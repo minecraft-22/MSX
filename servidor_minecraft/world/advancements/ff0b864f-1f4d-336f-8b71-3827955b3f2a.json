@@ -381,6 +381,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-01-04 23:54:16 +0000",
+      "minecraft:pillager": "2025-01-09 01:15:50 +0000",
       "minecraft:skeleton": "2025-01-01 03:47:50 +0000",
       "minecraft:phantom": "2025-01-04 19:15:26 +0000",
       "minecraft:zombified_piglin": "2025-01-08 21:20:35 +0000",
@@ -391,6 +392,7 @@
       "minecraft:cave_spider": "2025-01-08 23:34:28 +0000",
       "minecraft:piglin": "2025-01-08 20:59:52 +0000",
       "minecraft:breeze": "2025-01-08 23:41:46 +0000",
+      "minecraft:vindicator": "2025-01-09 01:18:58 +0000",
       "minecraft:enderman": "2025-01-06 03:02:45 +0000",
       "minecraft:magma_cube": "2025-01-04 23:58:11 +0000",
       "minecraft:spider": "2025-01-01 04:31:49 +0000",
@@ -3144,6 +3146,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-01-09 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-09 01:18:58 +0000"
     },
     "done": true
   },
