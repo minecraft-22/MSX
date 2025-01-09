@@ -362,8 +362,10 @@
       "beef": "2025-01-06 02:32:58 +0000",
       "melon_slice": "2025-01-05 22:24:37 +0000",
       "porkchop": "2025-01-06 00:27:14 +0000",
+      "golden_carrot": "2025-01-09 00:28:39 +0000",
       "apple": "2025-01-06 01:20:55 +0000",
       "cooked_chicken": "2025-01-02 00:13:02 +0000",
+      "enchanted_golden_apple": "2025-01-09 00:23:34 +0000",
       "rabbit_stew": "2025-01-06 00:05:37 +0000",
       "cooked_salmon": "2025-01-02 00:07:00 +0000",
       "carrot": "2025-01-04 20:49:08 +0000"
@@ -2998,6 +3000,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-01-08 23:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper_slab": "2025-01-09 00:30:41 +0000"
     },
     "done": true
   },
