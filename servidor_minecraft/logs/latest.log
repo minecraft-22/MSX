@@ -1974,3 +1974,315 @@ com.google.gson.JsonSyntaxException: Unknown item 'nethersdelight:hoglin_loin'
 [24Mar2025 01:09:24.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil joined the game
 [24Mar2025 01:09:35.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadow_GS[/127.83.145.254:57417] logged in with entity id 16696 at (-7.699999988079071, 267.0, -2.300000011920929)
 [24Mar2025 01:09:35.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS joined the game
+[24Mar2025 01:10:26.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil has made the advancement [Stone Age]
+[24Mar2025 01:11:19.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil has made the advancement [Monster Hunter]
+[24Mar2025 01:12:31.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT was shot by Skeleton
+[24Mar2025 01:12:38.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil has made the advancement [Getting an Upgrade]
+[24Mar2025 01:14:10.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Perkzekil moved too quickly! -8.566605335167708,1.2522033402537147,5.410463328876432
+[24Mar2025 01:14:10.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[24Mar2025 01:14:35.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT froze to death
+[24Mar2025 01:14:58.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS lost connection: Timed out
+[24Mar2025 01:14:58.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS left the game
+[24Mar2025 01:14:58.756] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Mar2025 01:14:59.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT lost connection: Timed out
+[24Mar2025 01:14:59.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT left the game
+[24Mar2025 01:15:47.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadow_GS[/127.83.145.254:37103] logged in with entity id 18901 at (-49.91294916559083, 274.0, -82.65413838880107)
+[24Mar2025 01:15:47.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS joined the game
+[24Mar2025 01:15:49.307] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joelrkfp123_YT[/127.168.177.9:43885] logged in with entity id 18929 at (13.534385660905789, 265.0, -24.95142815343976)
+[24Mar2025 01:15:49.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT joined the game
+[24Mar2025 01:16:01.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil hit the ground too hard
+[24Mar2025 01:16:29.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:18:03.798] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:18:03.800] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:18:03.801] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:18:03.802] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:18:22.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil froze to death
+[24Mar2025 01:18:33.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:19:04.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT lost connection: Timed out
+[24Mar2025 01:19:04.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT left the game
+[24Mar2025 01:19:30.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joelrkfp123_YT[/127.168.177.9:49719] logged in with entity id 21691 at (-3.7296718118251984, 267.0, -2.300000011920929)
+[24Mar2025 01:19:30.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT joined the game
+[24Mar2025 01:20:08.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[24Mar2025 01:20:19.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil froze to death
+[24Mar2025 01:20:37.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT froze to death
+[24Mar2025 01:20:38.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:22:11.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil froze to death
+[24Mar2025 01:22:32.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:22:51.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT was doomed to fall
+[24Mar2025 01:24:11.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil froze to death
+[24Mar2025 01:24:12.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS was doomed to fall
+[24Mar2025 01:24:50.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT froze to death
+[24Mar2025 01:25:12.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2932ms or 58 ticks behind
+[24Mar2025 01:25:33.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4006ms or 80 ticks behind
+[24Mar2025 01:25:38.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil has made the advancement [Sweet Dreams]
+[24Mar2025 01:26:07.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14241ms or 284 ticks behind
+[24Mar2025 01:26:07.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT moved too quickly! -7.988347768937359,0.0,-6.339836712977927
+[24Mar2025 01:26:07.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS moved too quickly! -8.172267607229742,-5.535840625044557,1.647624463270442
+[24Mar2025 01:26:27.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5667ms or 113 ticks behind
+[24Mar2025 01:26:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:26:45.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[24Mar2025 01:26:57.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT has made the advancement [Sweet Dreams]
+[24Mar2025 01:27:17.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT froze to death
+[24Mar2025 01:27:28.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[24Mar2025 01:27:33.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Perkzekil lost connection: Disconnected
+[24Mar2025 01:27:33.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Perkzekil left the game
+[24Mar2025 01:28:16.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS was frozen to death by Skeleton
+[24Mar2025 01:28:58.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT froze to death
+[24Mar2025 01:29:51.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT was shot by Royal Skeleton
+[24Mar2025 01:30:17.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS was blown up by Creeper
+[24Mar2025 01:30:43.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joelrkfp123_YT> -652 211 0
+[24Mar2025 01:31:43.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joelrkfp123_YT> -719 227 103
+[24Mar2025 01:31:45.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Mar2025 01:31:48.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:32:35.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT has made the advancement [Crops of the Wild]
+[24Mar2025 01:33:28.766] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:33:28.766] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:33:28.766] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:33:28.767] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:33:39.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:34:28.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[24Mar2025 01:35:41.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:36:55.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS moved too quickly! -8.776360830332237,2.250867361141559,-4.481850426722211
+[24Mar2025 01:36:55.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT moved too quickly! 6.241174487047829,-2.493864897893758,-7.587688506875958
+[24Mar2025 01:36:55.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[24Mar2025 01:37:04.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS moved too quickly! -9.968071803578027,-1.7684762024129839,-0.42574749843733173
+[24Mar2025 01:37:09.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT moved too quickly! 8.793168054621788,-0.17542329595207207,-5.2750852501699015
+[24Mar2025 01:37:16.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT moved too quickly! 8.863978183110362,0.8338907390617862,-4.85772964903434
+[24Mar2025 01:37:16.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[24Mar2025 01:37:35.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FELversgg[/127.4.178.117:41459] logged in with entity id 39421 at (175.99559498564406, 324.0, -279.73548368777904)
+[24Mar2025 01:37:35.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg joined the game
+[24Mar2025 01:37:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:38:21.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT froze to death
+[24Mar2025 01:38:44.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:44.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:44.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:44.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:44.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:44.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:44.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:44.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:44.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:45.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:46.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:47.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:48.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:49.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FELversgg lost connection: Disconnected
+[24Mar2025 01:38:49.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg left the game
+[24Mar2025 01:38:50.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:50.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:51.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS was kicked for floating too long!
+[24Mar2025 01:38:52.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS lost connection: Disconnected
+[24Mar2025 01:38:52.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS left the game
+[24Mar2025 01:38:59.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FELversgg[/127.4.178.117:53593] logged in with entity id 40271 at (185.37995951849095, 331.0, -325.8610400655022)
+[24Mar2025 01:38:59.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg joined the game
+[24Mar2025 01:39:08.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadow_GS[/127.83.145.254:33277] logged in with entity id 40317 at (-211.25490177917249, 204.50220334025371, 8.758034502492386)
+[24Mar2025 01:39:08.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS joined the game
+[24Mar2025 01:39:10.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT lost connection: Timed out
+[24Mar2025 01:39:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT left the game
+[24Mar2025 01:39:10.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joelrkfp123_YT[/127.168.177.9:54493] logged in with entity id 40268 at (-466.30000001192093, 178.0, -10.125166236983791)
+[24Mar2025 01:39:10.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT joined the game
+[24Mar2025 01:39:29.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FELversgg lost connection: Disconnected
+[24Mar2025 01:39:29.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg left the game
+[24Mar2025 01:39:38.424] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FELversgg[/127.4.178.117:38001] logged in with entity id 40478 at (185.37995951849095, 331.0, -325.8610400655022)
+[24Mar2025 01:39:38.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg joined the game
+[24Mar2025 01:39:39.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS lost connection: Timed out
+[24Mar2025 01:39:39.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS left the game
+[24Mar2025 01:39:56.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FELversgg moved too quickly! -1.2560754241344796,-3.0,9.47063717931195
+[24Mar2025 01:39:56.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4798ms or 95 ticks behind
+[24Mar2025 01:39:58.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadow_GS[/127.83.145.254:60651] logged in with entity id 40747 at (-211.25490177917249, 202.3926507935137, 8.758034502492386)
+[24Mar2025 01:39:58.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS joined the game
+[24Mar2025 01:40:00.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT lost connection: Disconnected
+[24Mar2025 01:40:00.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT left the game
+[24Mar2025 01:40:07.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joelrkfp123_YT[/127.168.177.9:53413] logged in with entity id 40957 at (-466.7947830425689, 178.5625, -9.35073632773353)
+[24Mar2025 01:40:07.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT joined the game
+[24Mar2025 01:41:02.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:41:11.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT froze to death
+[24Mar2025 01:41:29.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg froze to death
+[24Mar2025 01:42:07.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FELversgg moved too quickly! 0.8317649159203706,-4.829187091857648,9.088652095826049
+[24Mar2025 01:42:07.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS moved too quickly! -9.702447564035197,0.9986640208878441,2.6929817705657513
+[24Mar2025 01:42:07.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT moved too quickly! -9.705523396878789,-0.0013359791121558828,-3.092843807346796
+[24Mar2025 01:42:07.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2624ms or 52 ticks behind
+[24Mar2025 01:42:19.140] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:42:19.142] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:42:19.142] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:42:19.142] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:42:19.162] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[24Mar2025 01:42:19.180] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2b0b6ef9[id=<null>,name=Loweky_x,properties={},legacy=false] (/127.109.7.179:47125): Unexpected custom data from client
+[24Mar2025 01:42:19.232] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b0b6ef9[id=<null>,name=Loweky_x,properties={},legacy=false] (/127.109.7.179:47125) lost connection: Unexpected custom data from client
+[24Mar2025 01:42:21.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FELversgg moved too quickly! -1.111291523101511,1.1416851727245216,9.942899045524626
+[24Mar2025 01:42:21.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT moved too quickly! -10.228884424484079,0.16779664663326344,-0.20024887752721554
+[24Mar2025 01:42:26.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS moved too quickly! -10.05189834304656,-0.41999998688697815,0.776489371193378
+[24Mar2025 01:42:26.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FELversgg moved too quickly! -0.2875743431527482,1.753199980521174,10.094260614422268
+[24Mar2025 01:42:26.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
+[24Mar2025 01:42:35.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FELversgg moved too quickly! 2.8218881083193055,-1.0654145366487455,9.581132626392048
+[24Mar2025 01:42:35.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT moved too quickly! -2.151194651745584,-0.5047991229940862,-10.071919811194142
+[24Mar2025 01:42:41.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS moved too quickly! -0.3193298029976859,-0.015355033788637229,-10.047750065532682
+[24Mar2025 01:42:41.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FELversgg moved too quickly! 7.691689546737521,-3.07973598063802,6.061076174124082
+[24Mar2025 01:42:41.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joelrkfp123_YT moved too quickly! -5.909316825370183,-3.0735291238557068,-7.965928223062612
+[24Mar2025 01:42:43.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[24Mar2025 01:43:01.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS froze to death
+[24Mar2025 01:43:20.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT froze to death
+[24Mar2025 01:43:32.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg froze to death
+[24Mar2025 01:43:34.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loweky_x[/127.109.7.179:36535] logged in with entity id 43461 at (7.5, 284.0, 6.5)
+[24Mar2025 01:43:35.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loweky_x joined the game
+[24Mar2025 01:44:29.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
+[24Mar2025 01:44:36.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shadow_GS> -440 40 36
+[24Mar2025 01:44:49.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5300ms or 106 ticks behind
+[24Mar2025 01:45:04.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg fell from a high place
+[24Mar2025 01:45:08.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3450ms or 69 ticks behind
+[24Mar2025 01:46:10.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shadow_GS> -595 178 231
+[24Mar2025 01:47:48.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loweky_x has made the advancement [Stone Age]
+[24Mar2025 01:48:07.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[24Mar2025 01:48:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joelrkfp123_YT> -595 178 231
+[24Mar2025 01:48:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loweky_x died
+[24Mar2025 01:49:18.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT was slain by Zombie
+[24Mar2025 01:49:32.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FELversgg lost connection: Timed out
+[24Mar2025 01:49:32.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg left the game
+[24Mar2025 01:49:41.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT was slain by Spider
+[24Mar2025 01:50:16.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loweky_x froze to death
+[24Mar2025 01:50:22.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FELversgg[/127.4.178.117:37103] logged in with entity id 48552 at (-356.13786406623825, 183.1661092609382, -69.63237538859036)
+[24Mar2025 01:50:22.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg joined the game
+[24Mar2025 01:50:24.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT was slain by Spider
