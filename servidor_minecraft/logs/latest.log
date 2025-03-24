@@ -1919,3 +1919,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'nethersdelight:hoglin_loin'
 [24Mar2025 00:39:43.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT left the game
 [24Mar2025 00:39:56.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joelrkfp123_YT[/127.168.177.9:54371] logged in with entity id 5673 at (-0.8073130523247656, 267.0, -4.675133516242804)
 [24Mar2025 00:39:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT joined the game
+[24Mar2025 00:41:08.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS lost connection: Disconnected
+[24Mar2025 00:41:08.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS left the game
+[24Mar2025 00:41:25.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT has made the advancement [Getting an Upgrade]
+[24Mar2025 00:41:38.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FELversgg moved wrongly!
+[24Mar2025 00:42:48.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg walked into fire whilst fighting Joelrkfp123_YT
+[24Mar2025 00:43:15.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg was slain by Joelrkfp123_YT
+[24Mar2025 00:43:22.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadow_GS[/127.83.145.254:46287] logged in with entity id 6659 at (-6.538369506471803, 267.0, -3.6941474736547044)
+[24Mar2025 00:43:22.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS joined the game
+[24Mar2025 00:43:28.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS lost connection: Disconnected
+[24Mar2025 00:43:28.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS left the game
+[24Mar2025 00:44:28.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joelrkfp123_YT froze to death
+[24Mar2025 00:46:19.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadow_GS[/127.83.145.254:49245] logged in with entity id 7566 at (-6.538369506471803, 267.0, -3.6941474736547044)
+[24Mar2025 00:46:19.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS joined the game
+[24Mar2025 00:46:27.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FELversgg was slain by Joelrkfp123_YT

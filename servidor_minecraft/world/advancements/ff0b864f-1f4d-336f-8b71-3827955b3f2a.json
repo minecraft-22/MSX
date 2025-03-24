@@ -1,7 +1,19 @@
 {
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-24 00:43:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-03-24 00:38:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-24 00:43:39 +0000"
     },
     "done": true
   },
@@ -331,7 +343,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2025-03-24 00:35:14 +0000"
+      "minecraft:creeper": "2025-03-24 00:35:14 +0000",
+      "minecraft:zombie": "2025-03-24 00:42:16 +0000"
     },
     "done": false
   },
@@ -344,6 +357,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-24 00:35:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-03-24 00:47:51 +0000"
     },
     "done": true
   },
@@ -476,6 +495,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
     "criteria": {
       "has_planks": "2025-03-24 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-24 00:43:39 +0000"
     },
     "done": true
   },
@@ -878,6 +903,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-03-24 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-24 00:43:39 +0000"
     },
     "done": true
   },
