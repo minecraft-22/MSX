@@ -1,22 +1,22 @@
-[24Mar2025 19:49:53.264] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24Mar2025 19:49:53.269] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[24Mar2025 19:49:58.254] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24Mar2025 19:49:58.524] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[24Mar2025 19:50:00.586] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[24Mar2025 19:50:00.592] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Mar2025 19:50:00.596] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Mar2025 19:50:00.599] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Mar2025 19:50:01.696] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[24Mar2025 19:50:01.699] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[24Mar2025 19:50:08.109] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Mar2025 19:50:08.226] [main/ERROR] [mixin/]: Mixin config antixray.common.mixins.json does not specify "minVersion" property
-[24Mar2025 19:50:08.231] [main/ERROR] [mixin/]: Mixin config antixray.forge.mixins.json does not specify "minVersion" property
-[24Mar2025 19:50:08.339] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
-[24Mar2025 19:50:08.676] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[24Mar2025 19:50:08.679] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24Mar2025 19:50:09.239] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Mar2025 19:50:09.514] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Mar2025 19:50:09.658] [main/INFO] [Puzzles Lib/]: Loading 66 mods:
+[24Mar2025 20:12:08.850] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Mar2025 20:12:08.854] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[24Mar2025 20:12:09.822] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Mar2025 20:12:09.882] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Mar2025 20:12:10.374] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Mar2025 20:12:10.375] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Mar2025 20:12:10.377] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Mar2025 20:12:10.378] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Mar2025 20:12:10.730] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[24Mar2025 20:12:10.732] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[24Mar2025 20:12:14.356] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Mar2025 20:12:14.427] [main/ERROR] [mixin/]: Mixin config antixray.common.mixins.json does not specify "minVersion" property
+[24Mar2025 20:12:14.432] [main/ERROR] [mixin/]: Mixin config antixray.forge.mixins.json does not specify "minVersion" property
+[24Mar2025 20:12:14.497] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[24Mar2025 20:12:14.737] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[24Mar2025 20:12:14.740] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Mar2025 20:12:14.993] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 20:12:15.093] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 20:12:15.160] [main/INFO] [Puzzles Lib/]: Loading 66 mods:
 	- ambientsounds 6.1.6
 	- antixray 1.4.6
 	- appleskin 2.5.1+mc1.20.1
@@ -83,69 +83,69 @@
 	- watut 1.20.1-1.2.3
 	- weather2 1.20.1-2.8.3
 	- yungsapi 1.20-Forge-4.0.1
-[24Mar2025 19:50:09.700] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Mar2025 19:50:09.723] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Mar2025 19:50:09.751] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Mar2025 19:50:13.780] [main/WARN] [mixin/]: Error loading class: net/mehvahdjukaar/amendments/events/behaviors/InteractEvents (java.lang.ClassNotFoundException: net.mehvahdjukaar.amendments.events.behaviors.InteractEvents)
-[24Mar2025 19:50:13.783] [main/WARN] [mixin/]: @Mixin target net.mehvahdjukaar.amendments.events.behaviors.InteractEvents was not found mynethersdelight.mixins.json:amendments.InteractEventsMixin
-[24Mar2025 19:50:14.933] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[24Mar2025 19:50:30.256] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zjp000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[24Mar2025 19:50:34.683] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[24Mar2025 19:50:35.291] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[24Mar2025 19:50:35.353] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[24Mar2025 19:50:35.772] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[24Mar2025 19:50:36.073] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for forge
-[24Mar2025 19:50:36.687] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[24Mar2025 19:50:36.687] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[24Mar2025 19:50:39.853] [modloading-worker-0/INFO] [toughasnails/]: Serene Seasons detected. Enabling season modifier.
-[24Mar2025 19:50:40.167] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[24Mar2025 19:50:40.198] [modloading-worker-0/WARN] [Visuality/]: Visuality is installed on a dedicated server, skip loading...
-[24Mar2025 19:50:40.292] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[24Mar2025 19:50:45.187] [main/INFO] [Moonlight/]: Initialized block sets in 25ms
-[24Mar2025 19:50:46.395] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddItemModifier$$Lambda$9108/0x00007311e9253750@6dba7326] * Field[conditions: passthrough[flatXmapped]] * Field[item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@6134bbbb] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:add_item.
-[24Mar2025 19:50:46.397] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.ReplaceItemModifier$$Lambda$9113/0x00007311e9254290@1d071d30] * Field[conditions: passthrough[flatXmapped]] * Field[removed_item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@6134bbbb] * Field[added_item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@6134bbbb] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:replace_item.
-[24Mar2025 19:50:46.397] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddLootTableModifier$$Lambda$9116/0x00007311e9254960@76acd3f3] * Field[conditions: passthrough[flatXmapped]] * Field[lootTable: String[comapFlatMapped]]] has been registered twice for the same name farmersdelight:add_loot_table.
-[24Mar2025 19:50:46.398] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.PastrySlicingModifier$$Lambda$9119/0x00007311e9255010@4831ad43] * Field[conditions: passthrough[flatXmapped]] * Field[slice: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@6134bbbb]] has been registered twice for the same name farmersdelight:pastry_slicing.
-[24Mar2025 19:50:48.340] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: HELLO FROM PREINIT
-[24Mar2025 19:50:48.343] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: DIRT BLOCK >> translation{key='block.minecraft.dirt', args=[]}
-[24Mar2025 19:50:48.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[24Mar2025 19:50:49.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[24Mar2025 19:50:49.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_epicterrain] Starting version check at https://api.modrinth.com/updates/7qSJGSHp/forge_updates.json
-[24Mar2025 19:50:49.317] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 7, 0, 5, 0, 4, 50, 7, 1] ms
-[24Mar2025 19:50:49.411] [main/INFO] [Moonlight/]: Initialized color sets in 89ms
-[24Mar2025 19:50:49.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_epicterrain] Found status: BETA_OUTDATED Current: 0.1.4 Target: 0.1.4b+mod
-[24Mar2025 19:50:49.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[24Mar2025 19:50:49.451] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[24Mar2025 19:50:49.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fbp] Starting version check at https://raw.githubusercontent.com/Hantonik/FancyBlockParticles/1.20.1/update.json
-[24Mar2025 19:50:49.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fbp] Found status: BETA Current: 20.1.4.1 Target: 20.1.4.1
-[24Mar2025 19:50:49.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[24Mar2025 19:50:49.626] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[24Mar2025 19:50:49.671] [modloading-worker-0/INFO] [weather2.Weather/]: Got IMC []
-[24Mar2025 19:50:50.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
-[24Mar2025 19:50:50.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Mar2025 19:50:50.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[24Mar2025 19:50:50.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[24Mar2025 19:50:50.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.21 Target: null
-[24Mar2025 19:50:50.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[24Mar2025 19:50:50.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.79 Target: null
-[24Mar2025 19:50:50.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
-[24Mar2025 19:50:50.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.2 Target: 1.3.4+mod
-[24Mar2025 19:50:50.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[24Mar2025 19:50:50.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 1-v2.1.4 Target: 3.0.3.f+mod
-[24Mar2025 19:50:50.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[24Mar2025 19:50:50.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.12 Target: 1.0.12
-[24Mar2025 19:50:50.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[24Mar2025 19:50:50.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.29 Target: null
-[24Mar2025 19:50:50.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[24Mar2025 19:50:51.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[24Mar2025 19:50:51.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[24Mar2025 19:50:51.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
-[24Mar2025 19:50:55.081] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Mar2025 19:50:58.580] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/assets/.mcassetsroot' uses unexpected schema
-[24Mar2025 19:50:58.582] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/data/.mcassetsroot' uses unexpected schema
-[24Mar2025 19:50:58.922] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 120 ms
-[24Mar2025 19:51:00.182] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[24Mar2025 19:51:06.002] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mynethersdelight:blocks/blackstone_cooking_pot
+[24Mar2025 20:12:15.175] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 20:12:15.181] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 20:12:15.194] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 20:12:17.098] [main/WARN] [mixin/]: Error loading class: net/mehvahdjukaar/amendments/events/behaviors/InteractEvents (java.lang.ClassNotFoundException: net.mehvahdjukaar.amendments.events.behaviors.InteractEvents)
+[24Mar2025 20:12:17.099] [main/WARN] [mixin/]: @Mixin target net.mehvahdjukaar.amendments.events.behaviors.InteractEvents was not found mynethersdelight.mixins.json:amendments.InteractEventsMixin
+[24Mar2025 20:12:17.628] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[24Mar2025 20:12:25.732] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zjp000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[24Mar2025 20:12:27.760] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[24Mar2025 20:12:27.763] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[24Mar2025 20:12:27.791] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[24Mar2025 20:12:28.153] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[24Mar2025 20:12:28.304] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for forge
+[24Mar2025 20:12:28.606] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Mar2025 20:12:28.607] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Mar2025 20:12:30.574] [modloading-worker-0/INFO] [toughasnails/]: Serene Seasons detected. Enabling season modifier.
+[24Mar2025 20:12:30.729] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24Mar2025 20:12:30.767] [modloading-worker-0/WARN] [Visuality/]: Visuality is installed on a dedicated server, skip loading...
+[24Mar2025 20:12:30.831] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[24Mar2025 20:12:33.131] [main/INFO] [Moonlight/]: Initialized block sets in 15ms
+[24Mar2025 20:12:33.791] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddItemModifier$$Lambda$9109/0x000077e2e9237100@6760ef5] * Field[conditions: passthrough[flatXmapped]] * Field[item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@563f000f] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:add_item.
+[24Mar2025 20:12:33.792] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.ReplaceItemModifier$$Lambda$9114/0x000077e2e9237c40@524f15e9] * Field[conditions: passthrough[flatXmapped]] * Field[removed_item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@563f000f] * Field[added_item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@563f000f] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:replace_item.
+[24Mar2025 20:12:33.792] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddLootTableModifier$$Lambda$9117/0x000077e2e9238480@7a45b380] * Field[conditions: passthrough[flatXmapped]] * Field[lootTable: String[comapFlatMapped]]] has been registered twice for the same name farmersdelight:add_loot_table.
+[24Mar2025 20:12:33.792] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.PastrySlicingModifier$$Lambda$9120/0x000077e2e9238b30@4cf20b9b] * Field[conditions: passthrough[flatXmapped]] * Field[slice: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@563f000f]] has been registered twice for the same name farmersdelight:pastry_slicing.
+[24Mar2025 20:12:34.118] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: HELLO FROM PREINIT
+[24Mar2025 20:12:34.120] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: DIRT BLOCK >> translation{key='block.minecraft.dirt', args=[]}
+[24Mar2025 20:12:34.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[24Mar2025 20:12:34.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[24Mar2025 20:12:34.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_epicterrain] Starting version check at https://api.modrinth.com/updates/7qSJGSHp/forge_updates.json
+[24Mar2025 20:12:34.679] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 8, 0, 3, 0, 3, 40, 10, 1] ms
+[24Mar2025 20:12:34.714] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_epicterrain] Found status: BETA_OUTDATED Current: 0.1.4 Target: 0.1.4b+mod
+[24Mar2025 20:12:34.714] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[24Mar2025 20:12:34.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[24Mar2025 20:12:34.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fbp] Starting version check at https://raw.githubusercontent.com/Hantonik/FancyBlockParticles/1.20.1/update.json
+[24Mar2025 20:12:34.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fbp] Found status: BETA Current: 20.1.4.1 Target: 20.1.4.1
+[24Mar2025 20:12:34.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[24Mar2025 20:12:34.766] [main/INFO] [Moonlight/]: Initialized color sets in 72ms
+[24Mar2025 20:12:34.909] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[24Mar2025 20:12:34.967] [modloading-worker-0/INFO] [weather2.Weather/]: Got IMC []
+[24Mar2025 20:12:35.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[24Mar2025 20:12:35.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Mar2025 20:12:35.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[24Mar2025 20:12:35.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[24Mar2025 20:12:35.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.21 Target: null
+[24Mar2025 20:12:35.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[24Mar2025 20:12:35.525] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.79 Target: null
+[24Mar2025 20:12:35.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[24Mar2025 20:12:35.566] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.2 Target: 1.3.4+mod
+[24Mar2025 20:12:35.566] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[24Mar2025 20:12:35.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 1-v2.1.4 Target: 3.0.3.f+mod
+[24Mar2025 20:12:35.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[24Mar2025 20:12:35.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.12 Target: 1.0.12
+[24Mar2025 20:12:35.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[24Mar2025 20:12:35.969] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.29 Target: null
+[24Mar2025 20:12:35.970] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[24Mar2025 20:12:36.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[24Mar2025 20:12:36.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[24Mar2025 20:12:36.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
+[24Mar2025 20:12:39.621] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Mar2025 20:12:41.641] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/assets/.mcassetsroot' uses unexpected schema
+[24Mar2025 20:12:41.643] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/data/.mcassetsroot' uses unexpected schema
+[24Mar2025 20:12:41.952] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 80 ms
+[24Mar2025 20:12:42.693] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[24Mar2025 20:12:45.251] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mynethersdelight:blocks/blackstone_cooking_pot
 com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -201,9 +201,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Mar2025 19:51:08.013] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[24Mar2025 19:51:08.025] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[24Mar2025 19:51:08.065] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:chilidog_alt
+[24Mar2025 20:12:46.522] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[24Mar2025 20:12:46.527] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[24Mar2025 20:12:46.563] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:chilidog_alt
 com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:blazing_chili'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -241,8 +241,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:blazing_chili'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 19:51:08.176] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[24Mar2025 19:51:08.246] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethersdelight:cutting/hoglin_sausage_alt
+[24Mar2025 20:12:46.666] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[24Mar2025 20:12:46.701] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethersdelight:cutting/hoglin_sausage_alt
 com.google.gson.JsonSyntaxException: Unknown item 'nethersdelight:hoglin_loin'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -281,115 +281,88 @@ com.google.gson.JsonSyntaxException: Unknown item 'nethersdelight:hoglin_loin'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 19:51:08.271] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 20 recipes
-[24Mar2025 19:51:08.771] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2646 advancements
-[24Mar2025 19:51:08.782] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[24Mar2025 19:51:08.872] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[24Mar2025 19:51:08.893] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[24Mar2025 19:51:08.897] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[24Mar2025 19:51:11.389] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[24Mar2025 19:51:11.502] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
-[24Mar2025 19:51:11.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24Mar2025 19:51:11.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Mar2025 19:51:11.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Mar2025 19:51:11.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Mar2025 19:51:12.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Mar2025 19:51:12.535] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Mar2025 19:51:12.761] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Mar2025 19:51:12.763] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Mar2025 19:51:12.764] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Mar2025 19:51:12.764] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Mar2025 19:51:12.816] [Thread-2/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[24Mar2025 19:51:12.927] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[24Mar2025 19:51:12.931] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[24Mar2025 19:51:12.932] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[24Mar2025 19:51:12.932] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[24Mar2025 19:51:12.933] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[24Mar2025 19:51:12.935] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[24Mar2025 19:51:12.936] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[24Mar2025 19:51:12.936] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[24Mar2025 19:51:12.936] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[24Mar2025 19:51:12.936] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[24Mar2025 19:51:12.976] [Server thread/INFO] [Framework/]: Loading server configs...
-[24Mar2025 19:51:13.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Mar2025 19:51:49.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Mar2025 19:52:08.117] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:08.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:08.396] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:08.432] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:08.433] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:08.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:08.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:08.530] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:08.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:08.806] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:08.923] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.044] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.131] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.174] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.245] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.308] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.531] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.535] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.536] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.537] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.630] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.704] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:09.950] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.160] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.231] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.407] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.514] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.643] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.709] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.787] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.817] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.910] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:10.953] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:11.042] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:11.160] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:11.174] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:11.248] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:11.307] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:11.366] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:11.493] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:11.769] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:12.151] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:12.201] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:12.984] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:13.099] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:13.564] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:14.003] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:14.534] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:15.023] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:15.543] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:16.070] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:16.484] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:16.980] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:17.870] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:17.968] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:18.468] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:18.966] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:20.690] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:20.694] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:20.695] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:20.965] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:21.548] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:21.977] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 19:52:22.541] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
-[24Mar2025 19:52:23.799] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 34334 ms
-[24Mar2025 19:52:23.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (71.002s)! For help, type "help"
-[24Mar2025 19:52:23.911] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Mar2025 19:52:24.984] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 22465 bytes (in 3 string chunks with the size of 10000)
-[24Mar2025 19:52:25.177] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Installed for use
-[24Mar2025 19:52:27.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
-[24Mar2025 19:52:31.953] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[24Mar2025 19:52:32.029] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@344e8aa7[id=<null>,name=Mamba,properties={},legacy=false] (/127.166.82.197:53261): Unexpected custom data from client
-[24Mar2025 19:52:32.085] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@344e8aa7[id=<null>,name=Mamba,properties={},legacy=false] (/127.166.82.197:53261) lost connection: Unexpected custom data from client
-[24Mar2025 19:52:46.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3838ms or 76 ticks behind
-[24Mar2025 19:53:23.271] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[24Mar2025 19:53:23.273] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@482ec4a0[id=<null>,name=Mamba,properties={},legacy=false] (/127.166.82.197:34333): Unexpected custom data from client
-[24Mar2025 19:53:23.297] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@482ec4a0[id=<null>,name=Mamba,properties={},legacy=false] (/127.166.82.197:34333) lost connection: Unexpected custom data from client
+[24Mar2025 20:12:46.748] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 20 recipes
+[24Mar2025 20:12:46.991] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2646 advancements
+[24Mar2025 20:12:46.998] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[24Mar2025 20:12:47.069] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[24Mar2025 20:12:47.090] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[24Mar2025 20:12:47.093] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[24Mar2025 20:12:48.470] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[24Mar2025 20:12:48.518] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[24Mar2025 20:12:48.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Mar2025 20:12:48.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Mar2025 20:12:48.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Mar2025 20:12:48.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Mar2025 20:12:48.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Mar2025 20:12:48.968] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Mar2025 20:12:49.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Mar2025 20:12:49.074] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Mar2025 20:12:49.075] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Mar2025 20:12:49.075] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Mar2025 20:12:49.191] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[24Mar2025 20:12:49.193] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[24Mar2025 20:12:49.194] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[24Mar2025 20:12:49.195] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[24Mar2025 20:12:49.196] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[24Mar2025 20:12:49.199] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[24Mar2025 20:12:49.200] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[24Mar2025 20:12:49.201] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[24Mar2025 20:12:49.203] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[24Mar2025 20:12:49.204] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[24Mar2025 20:12:49.228] [Server thread/INFO] [Framework/]: Loading server configs...
+[24Mar2025 20:12:49.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Mar2025 20:13:00.426] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Mar2025 20:13:00.426] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Mar2025 20:13:08.436] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Mar2025 20:13:12.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Mar2025 20:13:29.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:29.651] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:29.738] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:29.832] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:29.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.154] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.174] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.183] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.185] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.188] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.189] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.192] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.197] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.198] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.200] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.202] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.210] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.213] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.215] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.218] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.220] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.222] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.224] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.227] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.230] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.232] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.234] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.235] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.236] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.243] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:30.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:31.242] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:31.486] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Mar2025 20:13:31.793] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 20:13:32.565] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 19823 ms
+[24Mar2025 20:13:32.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (43.475s)! For help, type "help"
+[24Mar2025 20:13:32.613] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Mar2025 20:13:32.680] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 22465 bytes (in 3 string chunks with the size of 10000)
+[24Mar2025 20:13:56.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadow_GS[/127.83.145.254:56181] logged in with entity id 137 at (-310.1139250258654, 193.0, 24.590136987886535)
+[24Mar2025 20:13:56.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS joined the game
+[24Mar2025 20:14:27.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31293ms or 625 ticks behind
+[24Mar2025 20:14:34.314] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Installed for use
+[24Mar2025 20:14:45.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/369, l='ServerLevel[world]', x=-293.45, y=209.00, z=208.55]
+[24Mar2025 20:15:31.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_GS lost connection: Disconnected
+[24Mar2025 20:15:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_GS left the game
